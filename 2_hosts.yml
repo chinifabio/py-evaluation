@@ -1,0 +1,13 @@
+hosts:
+  - address: 127.0.0.1
+    base_port: 9500
+    num_cores: 4
+    ssh:
+      username: fabio
+      key_file: /home/fabio/.ssh/id_rsa
+  - address: 127.0.0.2
+    base_port: 9600
+    num_cores: 4
+    ssh:
+      username: fabio
+      key_file: /home/fabio/.ssh/id_rsa
