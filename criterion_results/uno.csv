@@ -1,0 +1,1881 @@
+group,id,input,measure
+ProjectionPushdown - GroupBy,With,1000,56439312.0
+ProjectionPushdown - GroupBy,With,1000,56325260.0
+ProjectionPushdown - GroupBy,With,1000,56839714.44444445
+ProjectionPushdown - GroupBy,With,1000,56628386.333333336
+ProjectionPushdown - GroupBy,With,1000,56615432.6
+ProjectionPushdown - GroupBy,With,1000,56569049.777777776
+ProjectionPushdown - GroupBy,With,1000,56704881.76190476
+ProjectionPushdown - GroupBy,With,1000,56746912.708333336
+ProjectionPushdown - GroupBy,With,1000,56655090.925925925
+ProjectionPushdown - GroupBy,With,1000,56833724.0
+ProjectionPushdown - GroupBy,With,1000,56438739.90909091
+ProjectionPushdown - GroupBy,With,1000,56528604.05555555
+ProjectionPushdown - GroupBy,With,1000,56483660.384615384
+ProjectionPushdown - GroupBy,With,1000,56426773.88095238
+ProjectionPushdown - GroupBy,With,1000,56357561.64444444
+ProjectionPushdown - GroupBy,With,1000,56504509.583333336
+ProjectionPushdown - GroupBy,With,1000,56654605.09803922
+ProjectionPushdown - GroupBy,With,1000,56548788.94444445
+ProjectionPushdown - GroupBy,With,1000,56630883.0
+ProjectionPushdown - GroupBy,With,1000,56448670.13333333
+ProjectionPushdown - GroupBy,With,10,3926659.5135135134
+ProjectionPushdown - GroupBy,With,10,3918641.0
+ProjectionPushdown - GroupBy,With,10,3927326.864864865
+ProjectionPushdown - GroupBy,With,10,3930511.7297297297
+ProjectionPushdown - GroupBy,With,10,3929027.5243243244
+ProjectionPushdown - GroupBy,With,10,3920477.90990991
+ProjectionPushdown - GroupBy,With,10,3908022.8571428573
+ProjectionPushdown - GroupBy,With,10,3902720.1114864866
+ProjectionPushdown - GroupBy,With,10,3938095.4804804805
+ProjectionPushdown - GroupBy,With,10,3918633.5594594595
+ProjectionPushdown - GroupBy,With,10,3927423.85995086
+ProjectionPushdown - GroupBy,With,10,3932825.2635135134
+ProjectionPushdown - GroupBy,With,10,3921285.187110187
+ProjectionPushdown - GroupBy,With,10,3911555.1795366798
+ProjectionPushdown - GroupBy,With,10,3920453.5567567567
+ProjectionPushdown - GroupBy,With,10,3922786.256756757
+ProjectionPushdown - GroupBy,With,10,3930053.416534181
+ProjectionPushdown - GroupBy,With,10,3926186.1066066064
+ProjectionPushdown - GroupBy,With,10,3938099.8961593173
+ProjectionPushdown - GroupBy,With,10,3924854.6878378377
+ProjectionPushdown - GroupBy,With,100,7420189.65
+ProjectionPushdown - GroupBy,With,100,7429121.75
+ProjectionPushdown - GroupBy,With,100,7447082.033333333
+ProjectionPushdown - GroupBy,With,100,7447179.1875
+ProjectionPushdown - GroupBy,With,100,7487152.28
+ProjectionPushdown - GroupBy,With,100,7474882.55
+ProjectionPushdown - GroupBy,With,100,7462774.335714285
+ProjectionPushdown - GroupBy,With,100,7464679.7375
+ProjectionPushdown - GroupBy,With,100,7462226.766666667
+ProjectionPushdown - GroupBy,With,100,7479218.275
+ProjectionPushdown - GroupBy,With,100,7449913.168181818
+ProjectionPushdown - GroupBy,With,100,7456209.229166667
+ProjectionPushdown - GroupBy,With,100,7453713.473076923
+ProjectionPushdown - GroupBy,With,100,7473025.810714286
+ProjectionPushdown - GroupBy,With,100,7465198.946666666
+ProjectionPushdown - GroupBy,With,100,7449323.615625
+ProjectionPushdown - GroupBy,With,100,7451695.517647059
+ProjectionPushdown - GroupBy,With,100,7489497.875
+ProjectionPushdown - GroupBy,With,100,7471022.855263158
+ProjectionPushdown - GroupBy,With,100,7468310.435
+ProjectionPushdown - GroupBy,Closures,1000,98750791.0
+ProjectionPushdown - GroupBy,Closures,1000,98837274.5
+ProjectionPushdown - GroupBy,Closures,1000,98909549.83333333
+ProjectionPushdown - GroupBy,Closures,1000,99076444.875
+ProjectionPushdown - GroupBy,Closures,1000,98935992.7
+ProjectionPushdown - GroupBy,Closures,1000,99482508.0
+ProjectionPushdown - GroupBy,Closures,1000,98917437.42857143
+ProjectionPushdown - GroupBy,Closures,1000,98812132.5
+ProjectionPushdown - GroupBy,Closures,1000,99176843.6111111
+ProjectionPushdown - GroupBy,Closures,1000,98900932.15
+ProjectionPushdown - GroupBy,Closures,1000,99353883.86363636
+ProjectionPushdown - GroupBy,Closures,1000,99202873.66666667
+ProjectionPushdown - GroupBy,Closures,1000,98977355.26923077
+ProjectionPushdown - GroupBy,Closures,1000,99151556.5
+ProjectionPushdown - GroupBy,Closures,1000,98868435.03333333
+ProjectionPushdown - GroupBy,Closures,1000,99007829.4375
+ProjectionPushdown - GroupBy,Closures,1000,99466833.61764705
+ProjectionPushdown - GroupBy,Closures,1000,98916198.8888889
+ProjectionPushdown - GroupBy,Closures,1000,99063861.05263157
+ProjectionPushdown - GroupBy,Closures,1000,99068445.575
+ProjectionPushdown - GroupBy,Closures,10,2366655.066666667
+ProjectionPushdown - GroupBy,Closures,10,2391578.058333333
+ProjectionPushdown - GroupBy,Closures,10,2385979.1222222224
+ProjectionPushdown - GroupBy,Closures,10,2386748.754166667
+ProjectionPushdown - GroupBy,Closures,10,2380074.473333333
+ProjectionPushdown - GroupBy,Closures,10,2376141.6416666666
+ProjectionPushdown - GroupBy,Closures,10,2373550.7047619047
+ProjectionPushdown - GroupBy,Closures,10,2369171.495833333
+ProjectionPushdown - GroupBy,Closures,10,2385110.672222222
+ProjectionPushdown - GroupBy,Closures,10,2380634.01
+ProjectionPushdown - GroupBy,Closures,10,2381526.1515151514
+ProjectionPushdown - GroupBy,Closures,10,2374581.9694444444
+ProjectionPushdown - GroupBy,Closures,10,2376727.8307692306
+ProjectionPushdown - GroupBy,Closures,10,2368576.525
+ProjectionPushdown - GroupBy,Closures,10,2366096.6944444445
+ProjectionPushdown - GroupBy,Closures,10,2368006.49375
+ProjectionPushdown - GroupBy,Closures,10,2367601.3774509802
+ProjectionPushdown - GroupBy,Closures,10,2386376.262037037
+ProjectionPushdown - GroupBy,Closures,10,2401639.1675438597
+ProjectionPushdown - GroupBy,Closures,10,2397904.183333333
+ProjectionPushdown - GroupBy,Closures,100,10828197.57142857
+ProjectionPushdown - GroupBy,Closures,100,10832959.392857144
+ProjectionPushdown - GroupBy,Closures,100,10813394.42857143
+ProjectionPushdown - GroupBy,Closures,100,10800895.232142856
+ProjectionPushdown - GroupBy,Closures,100,10843252.042857142
+ProjectionPushdown - GroupBy,Closures,100,10814888.214285715
+ProjectionPushdown - GroupBy,Closures,100,10804869.591836736
+ProjectionPushdown - GroupBy,Closures,100,10768446.99107143
+ProjectionPushdown - GroupBy,Closures,100,10774598.777777778
+ProjectionPushdown - GroupBy,Closures,100,10774195.092857143
+ProjectionPushdown - GroupBy,Closures,100,10777741.863636363
+ProjectionPushdown - GroupBy,Closures,100,10795433.55952381
+ProjectionPushdown - GroupBy,Closures,100,10762454.395604396
+ProjectionPushdown - GroupBy,Closures,100,10754756.56122449
+ProjectionPushdown - GroupBy,Closures,100,10777956.666666666
+ProjectionPushdown - GroupBy,Closures,100,10758237.6875
+ProjectionPushdown - GroupBy,Closures,100,10778222.151260504
+ProjectionPushdown - GroupBy,Closures,100,10785514.976190476
+ProjectionPushdown - GroupBy,Closures,100,10786292.838345865
+ProjectionPushdown - GroupBy,Closures,100,10764061.07857143
+ProjectionPushdown - GroupBy,Without,1000,99840230.0
+ProjectionPushdown - GroupBy,Without,1000,99210208.25
+ProjectionPushdown - GroupBy,Without,1000,99215281.33333333
+ProjectionPushdown - GroupBy,Without,1000,99905179.375
+ProjectionPushdown - GroupBy,Without,1000,99270699.9
+ProjectionPushdown - GroupBy,Without,1000,99462229.16666667
+ProjectionPushdown - GroupBy,Without,1000,99301167.64285715
+ProjectionPushdown - GroupBy,Without,1000,99554265.75
+ProjectionPushdown - GroupBy,Without,1000,99550778.5
+ProjectionPushdown - GroupBy,Without,1000,99559505.05
+ProjectionPushdown - GroupBy,Without,1000,99663852.22727273
+ProjectionPushdown - GroupBy,Without,1000,99672798.25
+ProjectionPushdown - GroupBy,Without,1000,99722749.76923077
+ProjectionPushdown - GroupBy,Without,1000,100080850.75
+ProjectionPushdown - GroupBy,Without,1000,100307200.1
+ProjectionPushdown - GroupBy,Without,1000,99772140.5
+ProjectionPushdown - GroupBy,Without,1000,100294416.44117647
+ProjectionPushdown - GroupBy,Without,1000,99808624.75
+ProjectionPushdown - GroupBy,Without,1000,100080805.0
+ProjectionPushdown - GroupBy,Without,1000,100040301.75
+ProjectionPushdown - GroupBy,Without,10,2774032.653846154
+ProjectionPushdown - GroupBy,Without,10,2791078.326923077
+ProjectionPushdown - GroupBy,Without,10,2791248.378205128
+ProjectionPushdown - GroupBy,Without,10,2778655.8173076925
+ProjectionPushdown - GroupBy,Without,10,2785158.8961538463
+ProjectionPushdown - GroupBy,Without,10,2785149.641025641
+ProjectionPushdown - GroupBy,Without,10,2781363.686813187
+ProjectionPushdown - GroupBy,Without,10,2787003.800480769
+ProjectionPushdown - GroupBy,Without,10,2787542.497863248
+ProjectionPushdown - GroupBy,Without,10,2784950.6884615384
+ProjectionPushdown - GroupBy,Without,10,2775773.4982517483
+ProjectionPushdown - GroupBy,Without,10,2781438.1987179485
+ProjectionPushdown - GroupBy,Without,10,2774502.1198224854
+ProjectionPushdown - GroupBy,Without,10,2774386.278846154
+ProjectionPushdown - GroupBy,Without,10,2780554.466666667
+ProjectionPushdown - GroupBy,Without,10,2778780.90625
+ProjectionPushdown - GroupBy,Without,10,2789412.923076923
+ProjectionPushdown - GroupBy,Without,10,2787238.34508547
+ProjectionPushdown - GroupBy,Without,10,2784072.395748988
+ProjectionPushdown - GroupBy,Without,10,2791122.642307692
+ProjectionPushdown - GroupBy,Without,100,11753790.0
+ProjectionPushdown - GroupBy,Without,100,11716059.923076924
+ProjectionPushdown - GroupBy,Without,100,11717233.256410256
+ProjectionPushdown - GroupBy,Without,100,11711480.153846154
+ProjectionPushdown - GroupBy,Without,100,11728204.292307692
+ProjectionPushdown - GroupBy,Without,100,11772309.692307692
+ProjectionPushdown - GroupBy,Without,100,11737990.120879121
+ProjectionPushdown - GroupBy,Without,100,11714371.432692308
+ProjectionPushdown - GroupBy,Without,100,11722791.162393162
+ProjectionPushdown - GroupBy,Without,100,11742053.653846154
+ProjectionPushdown - GroupBy,Without,100,11709017.496503497
+ProjectionPushdown - GroupBy,Without,100,11712524.935897436
+ProjectionPushdown - GroupBy,Without,100,11727003.130177515
+ProjectionPushdown - GroupBy,Without,100,11706880.225274725
+ProjectionPushdown - GroupBy,Without,100,11712756.317948718
+ProjectionPushdown - GroupBy,Without,100,11730306.524038462
+ProjectionPushdown - GroupBy,Without,100,11726881.466063349
+ProjectionPushdown - GroupBy,Without,100,11719770.376068376
+ProjectionPushdown - GroupBy,Without,100,11736254.902834008
+ProjectionPushdown - GroupBy,Without,100,11687797.55
+PredicatePushdown - Join - selectivity,With,60,37079951.5
+PredicatePushdown - Join - selectivity,With,60,36781779.625
+PredicatePushdown - Join - selectivity,With,60,36897098.916666664
+PredicatePushdown - Join - selectivity,With,60,37028730.9375
+PredicatePushdown - Join - selectivity,With,60,36951092.5
+PredicatePushdown - Join - selectivity,With,60,36940058.458333336
+PredicatePushdown - Join - selectivity,With,60,36599320.821428575
+PredicatePushdown - Join - selectivity,With,60,36886955.375
+PredicatePushdown - Join - selectivity,With,60,36977745.69444445
+PredicatePushdown - Join - selectivity,With,60,37208555.525
+PredicatePushdown - Join - selectivity,With,60,37117209.63636363
+PredicatePushdown - Join - selectivity,With,60,37089850.125
+PredicatePushdown - Join - selectivity,With,60,36958133.75
+PredicatePushdown - Join - selectivity,With,60,36905735.21428572
+PredicatePushdown - Join - selectivity,With,60,37066544.65
+PredicatePushdown - Join - selectivity,With,60,36999467.0625
+PredicatePushdown - Join - selectivity,With,60,37144551.941176474
+PredicatePushdown - Join - selectivity,With,60,36897355.902777776
+PredicatePushdown - Join - selectivity,With,60,42188073.2631579
+PredicatePushdown - Join - selectivity,With,60,38247668.8875
+PredicatePushdown - Join - selectivity,With,40,113737198.5
+PredicatePushdown - Join - selectivity,With,40,108680593.25
+PredicatePushdown - Join - selectivity,With,40,107927417.83333333
+PredicatePushdown - Join - selectivity,With,40,108505156.5
+PredicatePushdown - Join - selectivity,With,40,107399902.7
+PredicatePushdown - Join - selectivity,With,40,109360758.0
+PredicatePushdown - Join - selectivity,With,40,108858133.92857143
+PredicatePushdown - Join - selectivity,With,40,108216264.6875
+PredicatePushdown - Join - selectivity,With,40,108126980.0
+PredicatePushdown - Join - selectivity,With,40,108421308.25
+PredicatePushdown - Join - selectivity,With,40,108542317.86363636
+PredicatePushdown - Join - selectivity,With,40,109597573.45833333
+PredicatePushdown - Join - selectivity,With,40,109351806.6923077
+PredicatePushdown - Join - selectivity,With,40,110670866.67857143
+PredicatePushdown - Join - selectivity,With,40,110288600.4
+PredicatePushdown - Join - selectivity,With,40,110802626.15625
+PredicatePushdown - Join - selectivity,With,40,110285508.05882353
+PredicatePushdown - Join - selectivity,With,40,111227686.08333333
+PredicatePushdown - Join - selectivity,With,40,111205093.78947368
+PredicatePushdown - Join - selectivity,With,40,110154831.225
+PredicatePushdown - Join - selectivity,With,80,21313521.85714286
+PredicatePushdown - Join - selectivity,With,80,20356946.714285713
+PredicatePushdown - Join - selectivity,With,80,20544723.714285713
+PredicatePushdown - Join - selectivity,With,80,20415506.285714287
+PredicatePushdown - Join - selectivity,With,80,20345596.285714287
+PredicatePushdown - Join - selectivity,With,80,20605085.80952381
+PredicatePushdown - Join - selectivity,With,80,20381636.285714287
+PredicatePushdown - Join - selectivity,With,80,20504430.48214286
+PredicatePushdown - Join - selectivity,With,80,20378118.61904762
+PredicatePushdown - Join - selectivity,With,80,20455720.457142856
+PredicatePushdown - Join - selectivity,With,80,20367915.623376623
+PredicatePushdown - Join - selectivity,With,80,20487243.273809522
+PredicatePushdown - Join - selectivity,With,80,20383676.10989011
+PredicatePushdown - Join - selectivity,With,80,20396003.653061226
+PredicatePushdown - Join - selectivity,With,80,20451029.552380953
+PredicatePushdown - Join - selectivity,With,80,20536776.35714286
+PredicatePushdown - Join - selectivity,With,80,20529108.29411765
+PredicatePushdown - Join - selectivity,With,80,20466787.65079365
+PredicatePushdown - Join - selectivity,With,80,20561257.639097743
+PredicatePushdown - Join - selectivity,With,80,20411462.185714286
+PredicatePushdown - Join - selectivity,With,20,208367011.0
+PredicatePushdown - Join - selectivity,With,20,213009550.5
+PredicatePushdown - Join - selectivity,With,20,219348220.33333334
+PredicatePushdown - Join - selectivity,With,20,217710441.75
+PredicatePushdown - Join - selectivity,With,20,218508045.6
+PredicatePushdown - Join - selectivity,With,20,220348541.0
+PredicatePushdown - Join - selectivity,With,20,217147938.0
+PredicatePushdown - Join - selectivity,With,20,217352812.0
+PredicatePushdown - Join - selectivity,With,20,214709690.2222222
+PredicatePushdown - Join - selectivity,With,20,215670434.1
+PredicatePushdown - Join - selectivity,With,20,219467657.0
+PredicatePushdown - Join - selectivity,With,20,214522037.0
+PredicatePushdown - Join - selectivity,With,20,215853956.92307693
+PredicatePushdown - Join - selectivity,With,20,213838019.92857143
+PredicatePushdown - Join - selectivity,With,20,217401452.93333334
+PredicatePushdown - Join - selectivity,With,20,216747869.25
+PredicatePushdown - Join - selectivity,With,20,216230194.7647059
+PredicatePushdown - Join - selectivity,With,20,218250048.55555555
+PredicatePushdown - Join - selectivity,With,20,212489093.0526316
+PredicatePushdown - Join - selectivity,With,20,221359420.0
+PredicatePushdown - Join - selectivity,Closures,60,94607838.5
+PredicatePushdown - Join - selectivity,Closures,60,90193253.75
+PredicatePushdown - Join - selectivity,Closures,60,89086780.83333333
+PredicatePushdown - Join - selectivity,Closures,60,88000686.0
+PredicatePushdown - Join - selectivity,Closures,60,88070580.5
+PredicatePushdown - Join - selectivity,Closures,60,88318266.58333333
+PredicatePushdown - Join - selectivity,Closures,60,90656118.28571428
+PredicatePushdown - Join - selectivity,Closures,60,97511390.5
+PredicatePushdown - Join - selectivity,Closures,60,87983177.77777778
+PredicatePushdown - Join - selectivity,Closures,60,88432568.95
+PredicatePushdown - Join - selectivity,Closures,60,89352815.0909091
+PredicatePushdown - Join - selectivity,Closures,60,88444713.5
+PredicatePushdown - Join - selectivity,Closures,60,87548515.57692307
+PredicatePushdown - Join - selectivity,Closures,60,88053584.0
+PredicatePushdown - Join - selectivity,Closures,60,88000300.4
+PredicatePushdown - Join - selectivity,Closures,60,88077671.46875
+PredicatePushdown - Join - selectivity,Closures,60,91777678.76470588
+PredicatePushdown - Join - selectivity,Closures,60,87739333.97222222
+PredicatePushdown - Join - selectivity,Closures,60,87915934.60526316
+PredicatePushdown - Join - selectivity,Closures,60,87614264.575
+PredicatePushdown - Join - selectivity,Closures,40,120777866.0
+PredicatePushdown - Join - selectivity,Closures,40,119503917.0
+PredicatePushdown - Join - selectivity,Closures,40,120890834.83333333
+PredicatePushdown - Join - selectivity,Closures,40,120421015.25
+PredicatePushdown - Join - selectivity,Closures,40,119314331.2
+PredicatePushdown - Join - selectivity,Closures,40,119834844.33333333
+PredicatePushdown - Join - selectivity,Closures,40,121273489.42857143
+PredicatePushdown - Join - selectivity,Closures,40,122278158.0625
+PredicatePushdown - Join - selectivity,Closures,40,119971982.05555555
+PredicatePushdown - Join - selectivity,Closures,40,119687717.2
+PredicatePushdown - Join - selectivity,Closures,40,120493881.36363636
+PredicatePushdown - Join - selectivity,Closures,40,120272140.29166667
+PredicatePushdown - Join - selectivity,Closures,40,119920524.57692307
+PredicatePushdown - Join - selectivity,Closures,40,120175150.64285715
+PredicatePushdown - Join - selectivity,Closures,40,120218116.43333334
+PredicatePushdown - Join - selectivity,Closures,40,119839245.03125
+PredicatePushdown - Join - selectivity,Closures,40,120929592.08823529
+PredicatePushdown - Join - selectivity,Closures,40,120197837.94444445
+PredicatePushdown - Join - selectivity,Closures,40,120072255.5
+PredicatePushdown - Join - selectivity,Closures,40,119856684.85
+PredicatePushdown - Join - selectivity,Closures,80,67135689.33333333
+PredicatePushdown - Join - selectivity,Closures,80,66980491.5
+PredicatePushdown - Join - selectivity,Closures,80,66975255.222222224
+PredicatePushdown - Join - selectivity,Closures,80,66802245.75
+PredicatePushdown - Join - selectivity,Closures,80,66306795.266666666
+PredicatePushdown - Join - selectivity,Closures,80,66389918.833333336
+PredicatePushdown - Join - selectivity,Closures,80,67875857.47619048
+PredicatePushdown - Join - selectivity,Closures,80,67309519.83333333
+PredicatePushdown - Join - selectivity,Closures,80,66890845.222222224
+PredicatePushdown - Join - selectivity,Closures,80,67671329.26666667
+PredicatePushdown - Join - selectivity,Closures,80,66709403.09090909
+PredicatePushdown - Join - selectivity,Closures,80,66697178.30555555
+PredicatePushdown - Join - selectivity,Closures,80,67005354.28205128
+PredicatePushdown - Join - selectivity,Closures,80,66665138.26190476
+PredicatePushdown - Join - selectivity,Closures,80,66755546.6
+PredicatePushdown - Join - selectivity,Closures,80,67024773.625
+PredicatePushdown - Join - selectivity,Closures,80,66739770.62745098
+PredicatePushdown - Join - selectivity,Closures,80,66836715.05555555
+PredicatePushdown - Join - selectivity,Closures,80,66641584.21052632
+PredicatePushdown - Join - selectivity,Closures,80,66850767.96666667
+PredicatePushdown - Join - selectivity,Closures,20,169029525.0
+PredicatePushdown - Join - selectivity,Closures,20,167730947.5
+PredicatePushdown - Join - selectivity,Closures,20,173333329.33333334
+PredicatePushdown - Join - selectivity,Closures,20,168148416.75
+PredicatePushdown - Join - selectivity,Closures,20,164804847.4
+PredicatePushdown - Join - selectivity,Closures,20,167545549.83333334
+PredicatePushdown - Join - selectivity,Closures,20,172935206.42857143
+PredicatePushdown - Join - selectivity,Closures,20,173377258.75
+PredicatePushdown - Join - selectivity,Closures,20,175418952.2222222
+PredicatePushdown - Join - selectivity,Closures,20,171089407.1
+PredicatePushdown - Join - selectivity,Closures,20,168040455.0909091
+PredicatePushdown - Join - selectivity,Closures,20,164260558.16666666
+PredicatePushdown - Join - selectivity,Closures,20,163047464.53846154
+PredicatePushdown - Join - selectivity,Closures,20,163017426.14285713
+PredicatePushdown - Join - selectivity,Closures,20,157308314.73333332
+PredicatePushdown - Join - selectivity,Closures,20,158371836.125
+PredicatePushdown - Join - selectivity,Closures,20,161541326.05882353
+PredicatePushdown - Join - selectivity,Closures,20,167418539.33333334
+PredicatePushdown - Join - selectivity,Closures,20,175449081.0
+PredicatePushdown - Join - selectivity,Closures,20,173772749.55
+PredicatePushdown - Join - selectivity,Without,60,223538522.0
+PredicatePushdown - Join - selectivity,Without,60,210309682.5
+PredicatePushdown - Join - selectivity,Without,60,211178001.33333334
+PredicatePushdown - Join - selectivity,Without,60,212237103.75
+PredicatePushdown - Join - selectivity,Without,60,212156256.4
+PredicatePushdown - Join - selectivity,Without,60,211306145.5
+PredicatePushdown - Join - selectivity,Without,60,210851126.42857143
+PredicatePushdown - Join - selectivity,Without,60,210374249.875
+PredicatePushdown - Join - selectivity,Without,60,210008170.55555555
+PredicatePushdown - Join - selectivity,Without,60,210131347.1
+PredicatePushdown - Join - selectivity,Without,60,210349490.9090909
+PredicatePushdown - Join - selectivity,Without,60,211354455.08333334
+PredicatePushdown - Join - selectivity,Without,60,210970710.30769232
+PredicatePushdown - Join - selectivity,Without,60,210649991.57142857
+PredicatePushdown - Join - selectivity,Without,60,211705892.0
+PredicatePushdown - Join - selectivity,Without,60,210518805.1875
+PredicatePushdown - Join - selectivity,Without,60,210625397.7647059
+PredicatePushdown - Join - selectivity,Without,60,209876517.83333334
+PredicatePushdown - Join - selectivity,Without,60,211420786.42105263
+PredicatePushdown - Join - selectivity,Without,60,211289810.25
+PredicatePushdown - Join - selectivity,Without,40,247339905.0
+PredicatePushdown - Join - selectivity,Without,40,319574350.5
+PredicatePushdown - Join - selectivity,Without,40,248178695.33333334
+PredicatePushdown - Join - selectivity,Without,40,233058836.75
+PredicatePushdown - Join - selectivity,Without,40,233868779.6
+PredicatePushdown - Join - selectivity,Without,40,235607621.0
+PredicatePushdown - Join - selectivity,Without,40,239403296.85714287
+PredicatePushdown - Join - selectivity,Without,40,233921363.5
+PredicatePushdown - Join - selectivity,Without,40,232874888.1111111
+PredicatePushdown - Join - selectivity,Without,40,234388470.4
+PredicatePushdown - Join - selectivity,Without,40,234256716.8181818
+PredicatePushdown - Join - selectivity,Without,40,234381859.0
+PredicatePushdown - Join - selectivity,Without,40,234665570.15384614
+PredicatePushdown - Join - selectivity,Without,40,233496719.7857143
+PredicatePushdown - Join - selectivity,Without,40,234334320.8
+PredicatePushdown - Join - selectivity,Without,40,232920969.5625
+PredicatePushdown - Join - selectivity,Without,40,233756658.88235295
+PredicatePushdown - Join - selectivity,Without,40,236523140.3888889
+PredicatePushdown - Join - selectivity,Without,40,233039627.21052632
+PredicatePushdown - Join - selectivity,Without,40,233791904.35
+PredicatePushdown - Join - selectivity,Without,80,201003577.0
+PredicatePushdown - Join - selectivity,Without,80,199291758.0
+PredicatePushdown - Join - selectivity,Without,80,199748779.0
+PredicatePushdown - Join - selectivity,Without,80,198783845.75
+PredicatePushdown - Join - selectivity,Without,80,197977122.8
+PredicatePushdown - Join - selectivity,Without,80,202427011.83333334
+PredicatePushdown - Join - selectivity,Without,80,202137880.7142857
+PredicatePushdown - Join - selectivity,Without,80,198788120.0
+PredicatePushdown - Join - selectivity,Without,80,199108718.55555555
+PredicatePushdown - Join - selectivity,Without,80,198916573.5
+PredicatePushdown - Join - selectivity,Without,80,198642658.1818182
+PredicatePushdown - Join - selectivity,Without,80,200075815.08333334
+PredicatePushdown - Join - selectivity,Without,80,198779084.69230768
+PredicatePushdown - Join - selectivity,Without,80,198464805.0
+PredicatePushdown - Join - selectivity,Without,80,198808533.26666668
+PredicatePushdown - Join - selectivity,Without,80,198416594.1875
+PredicatePushdown - Join - selectivity,Without,80,199498369.52941176
+PredicatePushdown - Join - selectivity,Without,80,199752704.5
+PredicatePushdown - Join - selectivity,Without,80,198632616.47368422
+PredicatePushdown - Join - selectivity,Without,80,199699827.85
+PredicatePushdown - Join - selectivity,Without,20,304432615.0
+PredicatePushdown - Join - selectivity,Without,20,299084692.0
+PredicatePushdown - Join - selectivity,Without,20,304852006.0
+PredicatePushdown - Join - selectivity,Without,20,298900494.6
+PredicatePushdown - Join - selectivity,Without,20,303578268.2
+PredicatePushdown - Join - selectivity,Without,20,300369550.0
+PredicatePushdown - Join - selectivity,Without,20,297217369.0
+PredicatePushdown - Join - selectivity,Without,20,298668708.4
+PredicatePushdown - Join - selectivity,Without,20,301624713.4
+PredicatePushdown - Join - selectivity,Without,20,297410704.8
+PredicatePushdown - Join - selectivity,Without,20,298679750.0
+PredicatePushdown - Join - selectivity,Without,20,305509599.8
+PredicatePushdown - Join - selectivity,Without,20,304568501.4
+PredicatePushdown - Join - selectivity,Without,20,298527205.2
+PredicatePushdown - Join - selectivity,Without,20,298995639.4
+PredicatePushdown - Join - selectivity,Without,20,300566496.2
+PredicatePushdown - Join - selectivity,Without,20,300407359.8
+PredicatePushdown - Join - selectivity,Without,20,298639057.0
+PredicatePushdown - Join - selectivity,Without,20,298585361.8
+PredicatePushdown - Join - selectivity,Without,20,298517196.8
+Compiled vs Interpreted,Compiled,1000000,72268342.0
+Compiled vs Interpreted,Compiled,1000000,76041178.0
+Compiled vs Interpreted,Compiled,1000000,73079255.66666667
+Compiled vs Interpreted,Compiled,1000000,72626396.75
+Compiled vs Interpreted,Compiled,1000000,72542656.5
+Compiled vs Interpreted,Compiled,1000000,72419090.33333333
+Compiled vs Interpreted,Compiled,1000000,72564873.42857143
+Compiled vs Interpreted,Compiled,1000000,72482135.375
+Compiled vs Interpreted,Compiled,1000000,72473399.22222222
+Compiled vs Interpreted,Compiled,1000000,72600864.65
+Compiled vs Interpreted,Compiled,1000000,72646207.0909091
+Compiled vs Interpreted,Compiled,1000000,72810546.54166667
+Compiled vs Interpreted,Compiled,1000000,72826248.88461539
+Compiled vs Interpreted,Compiled,1000000,72426107.53571428
+Compiled vs Interpreted,Compiled,1000000,72423021.46666667
+Compiled vs Interpreted,Compiled,1000000,72389987.5
+Compiled vs Interpreted,Compiled,1000000,72494753.41176471
+Compiled vs Interpreted,Compiled,1000000,72603486.27777778
+Compiled vs Interpreted,Compiled,1000000,72459462.44736843
+Compiled vs Interpreted,Compiled,1000000,72480440.825
+Compiled vs Interpreted,Compiled,100000,6973803.380952381
+Compiled vs Interpreted,Compiled,100000,6968208.452380952
+Compiled vs Interpreted,Compiled,100000,7006338.968253968
+Compiled vs Interpreted,Compiled,100000,6987931.642857143
+Compiled vs Interpreted,Compiled,100000,7002886.295238095
+Compiled vs Interpreted,Compiled,100000,6983425.968253968
+Compiled vs Interpreted,Compiled,100000,7005902.5034013605
+Compiled vs Interpreted,Compiled,100000,6991954.220238095
+Compiled vs Interpreted,Compiled,100000,6992339.08994709
+Compiled vs Interpreted,Compiled,100000,6995974.842857143
+Compiled vs Interpreted,Compiled,100000,6997981.376623376
+Compiled vs Interpreted,Compiled,100000,6982252.654761905
+Compiled vs Interpreted,Compiled,100000,7005210.377289377
+Compiled vs Interpreted,Compiled,100000,7002216.6122448975
+Compiled vs Interpreted,Compiled,100000,7008354.930158731
+Compiled vs Interpreted,Compiled,100000,6999583.318452381
+Compiled vs Interpreted,Compiled,100000,6987905.350140056
+Compiled vs Interpreted,Compiled,100000,6997756.841269841
+Compiled vs Interpreted,Compiled,100000,6999255.275689223
+Compiled vs Interpreted,Compiled,100000,7009763.392857143
+Compiled vs Interpreted,Compiled,10000000,907749789.0
+Compiled vs Interpreted,Compiled,10000000,928896738.5
+Compiled vs Interpreted,Compiled,10000000,911650713.0
+Compiled vs Interpreted,Compiled,10000000,929043820.5
+Compiled vs Interpreted,Compiled,10000000,907124958.5
+Compiled vs Interpreted,Compiled,10000000,901677858.0
+Compiled vs Interpreted,Compiled,10000000,906262613.5
+Compiled vs Interpreted,Compiled,10000000,902889949.5
+Compiled vs Interpreted,Compiled,10000000,905005006.5
+Compiled vs Interpreted,Compiled,10000000,906160242.0
+Compiled vs Interpreted,Compiled,10000000,909225440.0
+Compiled vs Interpreted,Compiled,10000000,909237680.5
+Compiled vs Interpreted,Compiled,10000000,908605329.0
+Compiled vs Interpreted,Compiled,10000000,906797258.0
+Compiled vs Interpreted,Compiled,10000000,910476677.0
+Compiled vs Interpreted,Compiled,10000000,905714624.5
+Compiled vs Interpreted,Compiled,10000000,907795044.0
+Compiled vs Interpreted,Compiled,10000000,908934157.5
+Compiled vs Interpreted,Compiled,10000000,908545720.0
+Compiled vs Interpreted,Compiled,10000000,903595098.5
+Compiled vs Interpreted,Compiled,100000000,7622582157.0
+Compiled vs Interpreted,Compiled,100000000,8940680555.0
+Compiled vs Interpreted,Compiled,100000000,9050648057.0
+Compiled vs Interpreted,Compiled,100000000,7545431467.0
+Compiled vs Interpreted,Compiled,100000000,8942846113.0
+Compiled vs Interpreted,Compiled,100000000,7461877959.0
+Compiled vs Interpreted,Compiled,100000000,8897530193.0
+Compiled vs Interpreted,Compiled,100000000,7623430562.0
+Compiled vs Interpreted,Compiled,100000000,8975391411.0
+Compiled vs Interpreted,Compiled,100000000,9314544471.0
+Compiled vs Interpreted,Compiled,100000000,8952907945.0
+Compiled vs Interpreted,Compiled,100000000,8922621997.0
+Compiled vs Interpreted,Compiled,100000000,8949936894.0
+Compiled vs Interpreted,Compiled,100000000,7591017935.0
+Compiled vs Interpreted,Compiled,100000000,8926383986.0
+Compiled vs Interpreted,Compiled,100000000,8956885020.0
+Compiled vs Interpreted,Compiled,100000000,7653836699.0
+Compiled vs Interpreted,Compiled,100000000,8960622180.0
+Compiled vs Interpreted,Compiled,100000000,8983269995.0
+Compiled vs Interpreted,Compiled,100000000,9048971892.0
+Compiled vs Interpreted,Interpreted,1000000,98705940.0
+Compiled vs Interpreted,Interpreted,1000000,98913818.5
+Compiled vs Interpreted,Interpreted,1000000,99301171.66666667
+Compiled vs Interpreted,Interpreted,1000000,99192790.625
+Compiled vs Interpreted,Interpreted,1000000,99180998.0
+Compiled vs Interpreted,Interpreted,1000000,98947541.5
+Compiled vs Interpreted,Interpreted,1000000,99166567.57142857
+Compiled vs Interpreted,Interpreted,1000000,98942151.75
+Compiled vs Interpreted,Interpreted,1000000,99145568.83333333
+Compiled vs Interpreted,Interpreted,1000000,99111269.8
+Compiled vs Interpreted,Interpreted,1000000,98905945.9090909
+Compiled vs Interpreted,Interpreted,1000000,99129290.70833333
+Compiled vs Interpreted,Interpreted,1000000,99257786.26923077
+Compiled vs Interpreted,Interpreted,1000000,99058543.25
+Compiled vs Interpreted,Interpreted,1000000,99088538.6
+Compiled vs Interpreted,Interpreted,1000000,99109716.03125
+Compiled vs Interpreted,Interpreted,1000000,99069099.35294117
+Compiled vs Interpreted,Interpreted,1000000,99078602.6388889
+Compiled vs Interpreted,Interpreted,1000000,99086615.23684211
+Compiled vs Interpreted,Interpreted,1000000,99267385.25
+Compiled vs Interpreted,Interpreted,100000,9810390.266666668
+Compiled vs Interpreted,Interpreted,100000,9809333.2
+Compiled vs Interpreted,Interpreted,100000,9783806.222222222
+Compiled vs Interpreted,Interpreted,100000,9809273.7
+Compiled vs Interpreted,Interpreted,100000,9812339.946666667
+Compiled vs Interpreted,Interpreted,100000,9840939.622222222
+Compiled vs Interpreted,Interpreted,100000,9823538.847619047
+Compiled vs Interpreted,Interpreted,100000,9802487.733333332
+Compiled vs Interpreted,Interpreted,100000,9797888.42962963
+Compiled vs Interpreted,Interpreted,100000,9807822.9
+Compiled vs Interpreted,Interpreted,100000,9830872.563636364
+Compiled vs Interpreted,Interpreted,100000,9858801.15
+Compiled vs Interpreted,Interpreted,100000,9842371.471794872
+Compiled vs Interpreted,Interpreted,100000,9833989.614285715
+Compiled vs Interpreted,Interpreted,100000,9823900.013333334
+Compiled vs Interpreted,Interpreted,100000,9847310.766666668
+Compiled vs Interpreted,Interpreted,100000,9856405.258823529
+Compiled vs Interpreted,Interpreted,100000,9865511.085185185
+Compiled vs Interpreted,Interpreted,100000,9827272.368421054
+Compiled vs Interpreted,Interpreted,100000,9849732.96
+Compiled vs Interpreted,Interpreted,10000000,1179494663.5
+Compiled vs Interpreted,Interpreted,10000000,1183885090.5
+Compiled vs Interpreted,Interpreted,10000000,1185090510.0
+Compiled vs Interpreted,Interpreted,10000000,1182389318.5
+Compiled vs Interpreted,Interpreted,10000000,1186680518.0
+Compiled vs Interpreted,Interpreted,10000000,1182003096.5
+Compiled vs Interpreted,Interpreted,10000000,1185249088.0
+Compiled vs Interpreted,Interpreted,10000000,1179875259.0
+Compiled vs Interpreted,Interpreted,10000000,1175798335.0
+Compiled vs Interpreted,Interpreted,10000000,1178184313.5
+Compiled vs Interpreted,Interpreted,10000000,1191235970.5
+Compiled vs Interpreted,Interpreted,10000000,1183442485.5
+Compiled vs Interpreted,Interpreted,10000000,1185315592.0
+Compiled vs Interpreted,Interpreted,10000000,1194958470.0
+Compiled vs Interpreted,Interpreted,10000000,1183646928.0
+Compiled vs Interpreted,Interpreted,10000000,1182172505.5
+Compiled vs Interpreted,Interpreted,10000000,1183260684.0
+Compiled vs Interpreted,Interpreted,10000000,1179492720.5
+Compiled vs Interpreted,Interpreted,10000000,1187740574.5
+Compiled vs Interpreted,Interpreted,10000000,1198482095.0
+Compiled vs Interpreted,Interpreted,100000000,11901662634.0
+Compiled vs Interpreted,Interpreted,100000000,11789441698.0
+Compiled vs Interpreted,Interpreted,100000000,10402807710.0
+Compiled vs Interpreted,Interpreted,100000000,11568191483.0
+Compiled vs Interpreted,Interpreted,100000000,10466989711.0
+Compiled vs Interpreted,Interpreted,100000000,11825106022.0
+Compiled vs Interpreted,Interpreted,100000000,11824940720.0
+Compiled vs Interpreted,Interpreted,100000000,10441653850.0
+Compiled vs Interpreted,Interpreted,100000000,11812415967.0
+Compiled vs Interpreted,Interpreted,100000000,10502873590.0
+Compiled vs Interpreted,Interpreted,100000000,10208184617.0
+Compiled vs Interpreted,Interpreted,100000000,10297664881.0
+Compiled vs Interpreted,Interpreted,100000000,11736191116.0
+Compiled vs Interpreted,Interpreted,100000000,11734854668.0
+Compiled vs Interpreted,Interpreted,100000000,11749216681.0
+Compiled vs Interpreted,Interpreted,100000000,11732939568.0
+Compiled vs Interpreted,Interpreted,100000000,11872908497.0
+Compiled vs Interpreted,Interpreted,100000000,11779907224.0
+Compiled vs Interpreted,Interpreted,100000000,11815028199.0
+Compiled vs Interpreted,Interpreted,100000000,10287118342.0
+ProjectionPushdown - Filter,With,1000,56998225.666666664
+ProjectionPushdown - Filter,With,1000,56753896.0
+ProjectionPushdown - Filter,With,1000,56604378.222222224
+ProjectionPushdown - Filter,With,1000,56729006.416666664
+ProjectionPushdown - Filter,With,1000,56941507.733333334
+ProjectionPushdown - Filter,With,1000,56787082.722222224
+ProjectionPushdown - Filter,With,1000,56785633.809523806
+ProjectionPushdown - Filter,With,1000,56761419.125
+ProjectionPushdown - Filter,With,1000,56609926.40740741
+ProjectionPushdown - Filter,With,1000,56604282.5
+ProjectionPushdown - Filter,With,1000,56601985.24242424
+ProjectionPushdown - Filter,With,1000,56657910.166666664
+ProjectionPushdown - Filter,With,1000,56693284.15384615
+ProjectionPushdown - Filter,With,1000,56650875.833333336
+ProjectionPushdown - Filter,With,1000,56666025.822222225
+ProjectionPushdown - Filter,With,1000,56856070.25
+ProjectionPushdown - Filter,With,1000,56751925.039215684
+ProjectionPushdown - Filter,With,1000,56769776.018518515
+ProjectionPushdown - Filter,With,1000,56684763.2631579
+ProjectionPushdown - Filter,With,1000,56819403.0
+ProjectionPushdown - Filter,With,10,1991642.763888889
+ProjectionPushdown - Filter,With,10,1991717.9930555555
+ProjectionPushdown - Filter,With,10,1991853.3657407407
+ProjectionPushdown - Filter,With,10,1991371.545138889
+ProjectionPushdown - Filter,With,10,1991634.8833333333
+ProjectionPushdown - Filter,With,10,1993727.4490740742
+ProjectionPushdown - Filter,With,10,1991483.650793651
+ProjectionPushdown - Filter,With,10,1991752.2083333333
+ProjectionPushdown - Filter,With,10,1991230.1450617283
+ProjectionPushdown - Filter,With,10,1991442.4486111111
+ProjectionPushdown - Filter,With,10,1991546.4318181819
+ProjectionPushdown - Filter,With,10,1991844.306712963
+ProjectionPushdown - Filter,With,10,1992625.7873931625
+ProjectionPushdown - Filter,With,10,1991507.5168650793
+ProjectionPushdown - Filter,With,10,1991868.937037037
+ProjectionPushdown - Filter,With,10,1992548.681423611
+ProjectionPushdown - Filter,With,10,1991653.410130719
+ProjectionPushdown - Filter,With,10,1991496.7947530865
+ProjectionPushdown - Filter,With,10,1991728.312134503
+ProjectionPushdown - Filter,With,10,1991716.6743055556
+ProjectionPushdown - Filter,With,100,6891247.952380952
+ProjectionPushdown - Filter,With,100,6858165.642857143
+ProjectionPushdown - Filter,With,100,6908908.46031746
+ProjectionPushdown - Filter,With,100,6967055.238095238
+ProjectionPushdown - Filter,With,100,6962128.876190476
+ProjectionPushdown - Filter,With,100,6976658.904761905
+ProjectionPushdown - Filter,With,100,6929990.591836735
+ProjectionPushdown - Filter,With,100,6959870.863095238
+ProjectionPushdown - Filter,With,100,6964825.693121693
+ProjectionPushdown - Filter,With,100,6973096.414285715
+ProjectionPushdown - Filter,With,100,6978215.077922078
+ProjectionPushdown - Filter,With,100,6970561.317460317
+ProjectionPushdown - Filter,With,100,6954623.307692308
+ProjectionPushdown - Filter,With,100,6960784.346938776
+ProjectionPushdown - Filter,With,100,6960001.104761905
+ProjectionPushdown - Filter,With,100,6971005.348214285
+ProjectionPushdown - Filter,With,100,6971362.431372549
+ProjectionPushdown - Filter,With,100,6970013.417989418
+ProjectionPushdown - Filter,With,100,6965405.333333333
+ProjectionPushdown - Filter,With,100,6947935.445238095
+ProjectionPushdown - Filter,Closures,1000,92682559.0
+ProjectionPushdown - Filter,Closures,1000,92468336.5
+ProjectionPushdown - Filter,Closures,1000,92490781.83333333
+ProjectionPushdown - Filter,Closures,1000,92428857.125
+ProjectionPushdown - Filter,Closures,1000,92979119.4
+ProjectionPushdown - Filter,Closures,1000,92684183.08333333
+ProjectionPushdown - Filter,Closures,1000,92688593.14285715
+ProjectionPushdown - Filter,Closures,1000,92615817.0
+ProjectionPushdown - Filter,Closures,1000,92676373.6111111
+ProjectionPushdown - Filter,Closures,1000,93339909.9
+ProjectionPushdown - Filter,Closures,1000,93064904.27272727
+ProjectionPushdown - Filter,Closures,1000,92812212.75
+ProjectionPushdown - Filter,Closures,1000,93019442.65384616
+ProjectionPushdown - Filter,Closures,1000,92742255.35714285
+ProjectionPushdown - Filter,Closures,1000,92887496.03333333
+ProjectionPushdown - Filter,Closures,1000,92692273.21875
+ProjectionPushdown - Filter,Closures,1000,92822534.02941176
+ProjectionPushdown - Filter,Closures,1000,92825413.41666667
+ProjectionPushdown - Filter,Closures,1000,92581928.07894737
+ProjectionPushdown - Filter,Closures,1000,92515192.7
+ProjectionPushdown - Filter,Closures,10,1651672.4137931035
+ProjectionPushdown - Filter,Closures,10,1648723.0057471264
+ProjectionPushdown - Filter,Closures,10,1659505.6973180077
+ProjectionPushdown - Filter,Closures,10,1648708.0201149425
+ProjectionPushdown - Filter,Closures,10,1650623.4597701149
+ProjectionPushdown - Filter,Closures,10,1654354.2528735632
+ProjectionPushdown - Filter,Closures,10,1656464.0837438423
+ProjectionPushdown - Filter,Closures,10,1651715.492816092
+ProjectionPushdown - Filter,Closures,10,1656592.012771392
+ProjectionPushdown - Filter,Closures,10,1654933.795402299
+ProjectionPushdown - Filter,Closures,10,1653115.9028213166
+ProjectionPushdown - Filter,Closures,10,1653145.2164750958
+ProjectionPushdown - Filter,Closures,10,1651613.8275862068
+ProjectionPushdown - Filter,Closures,10,1649344.7151067324
+ProjectionPushdown - Filter,Closures,10,1649994.8122605365
+ProjectionPushdown - Filter,Closures,10,1651852.2629310344
+ProjectionPushdown - Filter,Closures,10,1649969.9425287356
+ProjectionPushdown - Filter,Closures,10,1650271.4891443166
+ProjectionPushdown - Filter,Closures,10,1652109.692075015
+ProjectionPushdown - Filter,Closures,10,1649737.78045977
+ProjectionPushdown - Filter,Closures,100,9878451.533333333
+ProjectionPushdown - Filter,Closures,100,9840934.833333334
+ProjectionPushdown - Filter,Closures,100,9796257.4
+ProjectionPushdown - Filter,Closures,100,9805078.833333334
+ProjectionPushdown - Filter,Closures,100,9772195.026666667
+ProjectionPushdown - Filter,Closures,100,9812892.7
+ProjectionPushdown - Filter,Closures,100,9841936.057142857
+ProjectionPushdown - Filter,Closures,100,9800370.466666667
+ProjectionPushdown - Filter,Closures,100,9799972.629629629
+ProjectionPushdown - Filter,Closures,100,9799696.886666667
+ProjectionPushdown - Filter,Closures,100,9803606.145454545
+ProjectionPushdown - Filter,Closures,100,9806789.005555555
+ProjectionPushdown - Filter,Closures,100,9808702.523076924
+ProjectionPushdown - Filter,Closures,100,9822367.319047619
+ProjectionPushdown - Filter,Closures,100,9794368.4
+ProjectionPushdown - Filter,Closures,100,9781810.358333332
+ProjectionPushdown - Filter,Closures,100,9781379.82745098
+ProjectionPushdown - Filter,Closures,100,9808371.97037037
+ProjectionPushdown - Filter,Closures,100,9813321.705263158
+ProjectionPushdown - Filter,Closures,100,9792880.223333333
+ProjectionPushdown - Filter,Without,1000,92800937.0
+ProjectionPushdown - Filter,Without,1000,92946318.5
+ProjectionPushdown - Filter,Without,1000,93232811.66666667
+ProjectionPushdown - Filter,Without,1000,93257189.75
+ProjectionPushdown - Filter,Without,1000,93307260.2
+ProjectionPushdown - Filter,Without,1000,93269130.91666667
+ProjectionPushdown - Filter,Without,1000,93391622.57142857
+ProjectionPushdown - Filter,Without,1000,93090165.8125
+ProjectionPushdown - Filter,Without,1000,93438110.77777778
+ProjectionPushdown - Filter,Without,1000,93329708.25
+ProjectionPushdown - Filter,Without,1000,93397943.04545455
+ProjectionPushdown - Filter,Without,1000,93125456.20833333
+ProjectionPushdown - Filter,Without,1000,93202430.6923077
+ProjectionPushdown - Filter,Without,1000,93145918.67857143
+ProjectionPushdown - Filter,Without,1000,93261634.06666666
+ProjectionPushdown - Filter,Without,1000,93130484.4375
+ProjectionPushdown - Filter,Without,1000,93189820.41176471
+ProjectionPushdown - Filter,Without,1000,93162549.1388889
+ProjectionPushdown - Filter,Without,1000,93032367.78947368
+ProjectionPushdown - Filter,Without,1000,93136309.95
+ProjectionPushdown - Filter,Without,10,2197189.3384615383
+ProjectionPushdown - Filter,Without,10,2189345.476923077
+ProjectionPushdown - Filter,Without,10,2199297.456410256
+ProjectionPushdown - Filter,Without,10,2195579.1384615386
+ProjectionPushdown - Filter,Without,10,2200383.372307692
+ProjectionPushdown - Filter,Without,10,2204912.292307692
+ProjectionPushdown - Filter,Without,10,2200112.545054945
+ProjectionPushdown - Filter,Without,10,2199062.678846154
+ProjectionPushdown - Filter,Without,10,2197171.235897436
+ProjectionPushdown - Filter,Without,10,2199305.1046153847
+ProjectionPushdown - Filter,Without,10,2195485.1160839163
+ProjectionPushdown - Filter,Without,10,2201338.5846153847
+ProjectionPushdown - Filter,Without,10,2204402.3905325443
+ProjectionPushdown - Filter,Without,10,2193811.315384615
+ProjectionPushdown - Filter,Without,10,2196759.713846154
+ProjectionPushdown - Filter,Without,10,2202332.7057692306
+ProjectionPushdown - Filter,Without,10,2199655.2081447965
+ProjectionPushdown - Filter,Without,10,2196650.500854701
+ProjectionPushdown - Filter,Without,10,2198681.0291497977
+ProjectionPushdown - Filter,Without,10,2199355.219230769
+ProjectionPushdown - Filter,Without,100,10401963.07142857
+ProjectionPushdown - Filter,Without,100,10338429.42857143
+ProjectionPushdown - Filter,Without,100,10351712.0
+ProjectionPushdown - Filter,Without,100,10366647.214285715
+ProjectionPushdown - Filter,Without,100,10398961.357142856
+ProjectionPushdown - Filter,Without,100,10403533.63095238
+ProjectionPushdown - Filter,Without,100,10400419.520408163
+ProjectionPushdown - Filter,Without,100,10374386.67857143
+ProjectionPushdown - Filter,Without,100,10385219.492063493
+ProjectionPushdown - Filter,Without,100,10389575.807142857
+ProjectionPushdown - Filter,Without,100,10377071.227272727
+ProjectionPushdown - Filter,Without,100,10389703.470238095
+ProjectionPushdown - Filter,Without,100,10410745.065934066
+ProjectionPushdown - Filter,Without,100,10385506.918367347
+ProjectionPushdown - Filter,Without,100,10405546.404761905
+ProjectionPushdown - Filter,Without,100,10411655.424107144
+ProjectionPushdown - Filter,Without,100,10383290.201680671
+ProjectionPushdown - Filter,Without,100,10400834.051587302
+ProjectionPushdown - Filter,Without,100,10389140.244360901
+ProjectionPushdown - Filter,Without,100,10372150.235714287
+PredicatePushdown - Groupby - selectivity,With,60,20409443.0
+PredicatePushdown - Groupby - selectivity,With,60,20493649.92857143
+PredicatePushdown - Groupby - selectivity,With,60,20436592.14285714
+PredicatePushdown - Groupby - selectivity,With,60,20435893.85714286
+PredicatePushdown - Groupby - selectivity,With,60,20451024.6
+PredicatePushdown - Groupby - selectivity,With,60,20494985.38095238
+PredicatePushdown - Groupby - selectivity,With,60,20415777.653061226
+PredicatePushdown - Groupby - selectivity,With,60,20422778.875
+PredicatePushdown - Groupby - selectivity,With,60,20420438.07936508
+PredicatePushdown - Groupby - selectivity,With,60,20455225.57142857
+PredicatePushdown - Groupby - selectivity,With,60,20523065.68831169
+PredicatePushdown - Groupby - selectivity,With,60,20448523.04761905
+PredicatePushdown - Groupby - selectivity,With,60,20471039.934065934
+PredicatePushdown - Groupby - selectivity,With,60,20481360.214285713
+PredicatePushdown - Groupby - selectivity,With,60,20441987.133333333
+PredicatePushdown - Groupby - selectivity,With,60,20452710.85714286
+PredicatePushdown - Groupby - selectivity,With,60,20468123.462184872
+PredicatePushdown - Groupby - selectivity,With,60,20436897.976190478
+PredicatePushdown - Groupby - selectivity,With,60,20436869.67669173
+PredicatePushdown - Groupby - selectivity,With,60,20466309.721428573
+PredicatePushdown - Groupby - selectivity,With,40,23636788.0
+PredicatePushdown - Groupby - selectivity,With,40,23719383.64285714
+PredicatePushdown - Groupby - selectivity,With,40,23614309.23809524
+PredicatePushdown - Groupby - selectivity,With,40,23746583.464285713
+PredicatePushdown - Groupby - selectivity,With,40,23698273.57142857
+PredicatePushdown - Groupby - selectivity,With,40,23738574.88095238
+PredicatePushdown - Groupby - selectivity,With,40,23571731.387755103
+PredicatePushdown - Groupby - selectivity,With,40,23586292.67857143
+PredicatePushdown - Groupby - selectivity,With,40,23649084.92063492
+PredicatePushdown - Groupby - selectivity,With,40,23651646.814285714
+PredicatePushdown - Groupby - selectivity,With,40,23639066.5974026
+PredicatePushdown - Groupby - selectivity,With,40,23709048.416666668
+PredicatePushdown - Groupby - selectivity,With,40,23619410.153846152
+PredicatePushdown - Groupby - selectivity,With,40,23626601.06122449
+PredicatePushdown - Groupby - selectivity,With,40,23646538.723809525
+PredicatePushdown - Groupby - selectivity,With,40,23621307.839285713
+PredicatePushdown - Groupby - selectivity,With,40,23645879.6302521
+PredicatePushdown - Groupby - selectivity,With,40,23694890.54761905
+PredicatePushdown - Groupby - selectivity,With,40,23573465.22556391
+PredicatePushdown - Groupby - selectivity,With,40,23653912.764285713
+PredicatePushdown - Groupby - selectivity,With,80,17151930.222222224
+PredicatePushdown - Groupby - selectivity,With,80,17344069.777777776
+PredicatePushdown - Groupby - selectivity,With,80,17164441.962962963
+PredicatePushdown - Groupby - selectivity,With,80,17178242.611111112
+PredicatePushdown - Groupby - selectivity,With,80,17180239.844444446
+PredicatePushdown - Groupby - selectivity,With,80,17103945.111111112
+PredicatePushdown - Groupby - selectivity,With,80,17177566.34920635
+PredicatePushdown - Groupby - selectivity,With,80,17159233.458333332
+PredicatePushdown - Groupby - selectivity,With,80,17159482.308641974
+PredicatePushdown - Groupby - selectivity,With,80,17156378.266666666
+PredicatePushdown - Groupby - selectivity,With,80,17151305.939393938
+PredicatePushdown - Groupby - selectivity,With,80,17198077.23148148
+PredicatePushdown - Groupby - selectivity,With,80,17165891.504273504
+PredicatePushdown - Groupby - selectivity,With,80,17162779.936507937
+PredicatePushdown - Groupby - selectivity,With,80,17172048.985185184
+PredicatePushdown - Groupby - selectivity,With,80,17149537.736111112
+PredicatePushdown - Groupby - selectivity,With,80,17144255.594771244
+PredicatePushdown - Groupby - selectivity,With,80,17180704.35802469
+PredicatePushdown - Groupby - selectivity,With,80,17180809.34502924
+PredicatePushdown - Groupby - selectivity,With,80,17175499.82222222
+PredicatePushdown - Groupby - selectivity,With,20,25846550.333333332
+PredicatePushdown - Groupby - selectivity,With,20,25865028.166666668
+PredicatePushdown - Groupby - selectivity,With,20,25795357.388888888
+PredicatePushdown - Groupby - selectivity,With,20,25964567.125
+PredicatePushdown - Groupby - selectivity,With,20,25819724.733333334
+PredicatePushdown - Groupby - selectivity,With,20,25939320.805555556
+PredicatePushdown - Groupby - selectivity,With,20,25991897.38095238
+PredicatePushdown - Groupby - selectivity,With,20,25902027.729166668
+PredicatePushdown - Groupby - selectivity,With,20,25759349.592592593
+PredicatePushdown - Groupby - selectivity,With,20,25859349.9
+PredicatePushdown - Groupby - selectivity,With,20,25901064.59090909
+PredicatePushdown - Groupby - selectivity,With,20,25877175.972222224
+PredicatePushdown - Groupby - selectivity,With,20,25858397.833333332
+PredicatePushdown - Groupby - selectivity,With,20,25932427.595238097
+PredicatePushdown - Groupby - selectivity,With,20,25885427.7
+PredicatePushdown - Groupby - selectivity,With,20,25870283.020833332
+PredicatePushdown - Groupby - selectivity,With,20,25885028.99019608
+PredicatePushdown - Groupby - selectivity,With,20,25845256.972222224
+PredicatePushdown - Groupby - selectivity,With,20,25916059.09649123
+PredicatePushdown - Groupby - selectivity,With,20,25916223.408333335
+PredicatePushdown - Groupby - selectivity,Closures,60,21862018.85714286
+PredicatePushdown - Groupby - selectivity,Closures,60,21870396.785714287
+PredicatePushdown - Groupby - selectivity,Closures,60,21865798.285714287
+PredicatePushdown - Groupby - selectivity,Closures,60,21907499.17857143
+PredicatePushdown - Groupby - selectivity,Closures,60,21913137.028571427
+PredicatePushdown - Groupby - selectivity,Closures,60,21899105.14285714
+PredicatePushdown - Groupby - selectivity,Closures,60,21873272.08163265
+PredicatePushdown - Groupby - selectivity,Closures,60,21837030.48214286
+PredicatePushdown - Groupby - selectivity,Closures,60,21944814.07936508
+PredicatePushdown - Groupby - selectivity,Closures,60,22009048.028571427
+PredicatePushdown - Groupby - selectivity,Closures,60,21968962.22077922
+PredicatePushdown - Groupby - selectivity,Closures,60,21928722.51190476
+PredicatePushdown - Groupby - selectivity,Closures,60,21935307.637362637
+PredicatePushdown - Groupby - selectivity,Closures,60,22025520.55102041
+PredicatePushdown - Groupby - selectivity,Closures,60,21999005.59047619
+PredicatePushdown - Groupby - selectivity,Closures,60,21949204.61607143
+PredicatePushdown - Groupby - selectivity,Closures,60,22021922.596638657
+PredicatePushdown - Groupby - selectivity,Closures,60,22018562.84920635
+PredicatePushdown - Groupby - selectivity,Closures,60,21965861.308270678
+PredicatePushdown - Groupby - selectivity,Closures,60,22028876.664285716
+PredicatePushdown - Groupby - selectivity,Closures,40,21782187.85714286
+PredicatePushdown - Groupby - selectivity,Closures,40,21829555.714285713
+PredicatePushdown - Groupby - selectivity,Closures,40,21785883.666666668
+PredicatePushdown - Groupby - selectivity,Closures,40,21809438.964285713
+PredicatePushdown - Groupby - selectivity,Closures,40,21976033.257142857
+PredicatePushdown - Groupby - selectivity,Closures,40,21826183.166666668
+PredicatePushdown - Groupby - selectivity,Closures,40,21830174.42857143
+PredicatePushdown - Groupby - selectivity,Closures,40,21854250.51785714
+PredicatePushdown - Groupby - selectivity,Closures,40,21849077.174603175
+PredicatePushdown - Groupby - selectivity,Closures,40,21833601.1
+PredicatePushdown - Groupby - selectivity,Closures,40,21855432.25974026
+PredicatePushdown - Groupby - selectivity,Closures,40,21844333.845238097
+PredicatePushdown - Groupby - selectivity,Closures,40,21922754.703296702
+PredicatePushdown - Groupby - selectivity,Closures,40,21892627.979591835
+PredicatePushdown - Groupby - selectivity,Closures,40,21899265.171428572
+PredicatePushdown - Groupby - selectivity,Closures,40,21990600.08035714
+PredicatePushdown - Groupby - selectivity,Closures,40,21940827.94117647
+PredicatePushdown - Groupby - selectivity,Closures,40,21848087.80952381
+PredicatePushdown - Groupby - selectivity,Closures,40,21844549.09774436
+PredicatePushdown - Groupby - selectivity,Closures,40,21842426.45
+PredicatePushdown - Groupby - selectivity,Closures,80,22161106.14285714
+PredicatePushdown - Groupby - selectivity,Closures,80,22144839.35714286
+PredicatePushdown - Groupby - selectivity,Closures,80,22157777.0
+PredicatePushdown - Groupby - selectivity,Closures,80,22122994.57142857
+PredicatePushdown - Groupby - selectivity,Closures,80,22152767.828571428
+PredicatePushdown - Groupby - selectivity,Closures,80,22124663.714285713
+PredicatePushdown - Groupby - selectivity,Closures,80,22204939.673469387
+PredicatePushdown - Groupby - selectivity,Closures,80,22322002.76785714
+PredicatePushdown - Groupby - selectivity,Closures,80,22234665.46031746
+PredicatePushdown - Groupby - selectivity,Closures,80,22199377.028571427
+PredicatePushdown - Groupby - selectivity,Closures,80,22213521.987012986
+PredicatePushdown - Groupby - selectivity,Closures,80,22230680.38095238
+PredicatePushdown - Groupby - selectivity,Closures,80,22226726.065934066
+PredicatePushdown - Groupby - selectivity,Closures,80,22246468.68367347
+PredicatePushdown - Groupby - selectivity,Closures,80,22232848.03809524
+PredicatePushdown - Groupby - selectivity,Closures,80,22296629.79464286
+PredicatePushdown - Groupby - selectivity,Closures,80,22276524.61344538
+PredicatePushdown - Groupby - selectivity,Closures,80,22241332.825396825
+PredicatePushdown - Groupby - selectivity,Closures,80,22203112.834586468
+PredicatePushdown - Groupby - selectivity,Closures,80,22231584.635714285
+PredicatePushdown - Groupby - selectivity,Closures,20,21921776.42857143
+PredicatePushdown - Groupby - selectivity,Closures,20,21926569.785714287
+PredicatePushdown - Groupby - selectivity,Closures,20,21930638.333333332
+PredicatePushdown - Groupby - selectivity,Closures,20,21961783.035714287
+PredicatePushdown - Groupby - selectivity,Closures,20,21999038.971428573
+PredicatePushdown - Groupby - selectivity,Closures,20,21998482.595238097
+PredicatePushdown - Groupby - selectivity,Closures,20,21959968.204081632
+PredicatePushdown - Groupby - selectivity,Closures,20,22005716.30357143
+PredicatePushdown - Groupby - selectivity,Closures,20,21945342.206349205
+PredicatePushdown - Groupby - selectivity,Closures,20,22004167.2
+PredicatePushdown - Groupby - selectivity,Closures,20,22012923.051948052
+PredicatePushdown - Groupby - selectivity,Closures,20,21995631.60714286
+PredicatePushdown - Groupby - selectivity,Closures,20,22073324.164835166
+PredicatePushdown - Groupby - selectivity,Closures,20,22052406.336734693
+PredicatePushdown - Groupby - selectivity,Closures,20,22080156.685714286
+PredicatePushdown - Groupby - selectivity,Closures,20,22048933.41964286
+PredicatePushdown - Groupby - selectivity,Closures,20,22063494.336134452
+PredicatePushdown - Groupby - selectivity,Closures,20,22023050.57936508
+PredicatePushdown - Groupby - selectivity,Closures,20,22057419.135338347
+PredicatePushdown - Groupby - selectivity,Closures,20,21994956.192857143
+PredicatePushdown - Groupby - selectivity,Without,60,26211066.666666668
+PredicatePushdown - Groupby - selectivity,Without,60,26233667.833333332
+PredicatePushdown - Groupby - selectivity,Without,60,26175055.722222224
+PredicatePushdown - Groupby - selectivity,Without,60,26130436.875
+PredicatePushdown - Groupby - selectivity,Without,60,26147824.766666666
+PredicatePushdown - Groupby - selectivity,Without,60,26391602.972222224
+PredicatePushdown - Groupby - selectivity,Without,60,26215789.64285714
+PredicatePushdown - Groupby - selectivity,Without,60,26290854.5625
+PredicatePushdown - Groupby - selectivity,Without,60,26272100.962962963
+PredicatePushdown - Groupby - selectivity,Without,60,26128450.466666665
+PredicatePushdown - Groupby - selectivity,Without,60,26348487.46969697
+PredicatePushdown - Groupby - selectivity,Without,60,26255703.361111112
+PredicatePushdown - Groupby - selectivity,Without,60,26183234.397435896
+PredicatePushdown - Groupby - selectivity,Without,60,26152295.04761905
+PredicatePushdown - Groupby - selectivity,Without,60,26131169.077777777
+PredicatePushdown - Groupby - selectivity,Without,60,26172925.395833332
+PredicatePushdown - Groupby - selectivity,Without,60,26189420.07843137
+PredicatePushdown - Groupby - selectivity,Without,60,26245979.435185187
+PredicatePushdown - Groupby - selectivity,Without,60,26180849.13157895
+PredicatePushdown - Groupby - selectivity,Without,60,26178166.0
+PredicatePushdown - Groupby - selectivity,Without,40,26709858.333333332
+PredicatePushdown - Groupby - selectivity,Without,40,26708610.083333332
+PredicatePushdown - Groupby - selectivity,Without,40,26756470.833333332
+PredicatePushdown - Groupby - selectivity,Without,40,26745074.291666668
+PredicatePushdown - Groupby - selectivity,Without,40,26786564.766666666
+PredicatePushdown - Groupby - selectivity,Without,40,26848917.944444444
+PredicatePushdown - Groupby - selectivity,Without,40,26826357.833333332
+PredicatePushdown - Groupby - selectivity,Without,40,26817035.5625
+PredicatePushdown - Groupby - selectivity,Without,40,26780525.98148148
+PredicatePushdown - Groupby - selectivity,Without,40,26743499.516666666
+PredicatePushdown - Groupby - selectivity,Without,40,26702800.363636363
+PredicatePushdown - Groupby - selectivity,Without,40,26740664.083333332
+PredicatePushdown - Groupby - selectivity,Without,40,26804067.243589744
+PredicatePushdown - Groupby - selectivity,Without,40,26837967.64285714
+PredicatePushdown - Groupby - selectivity,Without,40,26791214.855555557
+PredicatePushdown - Groupby - selectivity,Without,40,26804992.020833332
+PredicatePushdown - Groupby - selectivity,Without,40,26809993.00980392
+PredicatePushdown - Groupby - selectivity,Without,40,26786136.185185187
+PredicatePushdown - Groupby - selectivity,Without,40,26739468.63157895
+PredicatePushdown - Groupby - selectivity,Without,40,26796901.858333334
+PredicatePushdown - Groupby - selectivity,Without,80,25785725.5
+PredicatePushdown - Groupby - selectivity,Without,80,25679427.333333332
+PredicatePushdown - Groupby - selectivity,Without,80,25721698.611111112
+PredicatePushdown - Groupby - selectivity,Without,80,25743896.333333332
+PredicatePushdown - Groupby - selectivity,Without,80,25732841.6
+PredicatePushdown - Groupby - selectivity,Without,80,25795071.027777776
+PredicatePushdown - Groupby - selectivity,Without,80,25791535.476190478
+PredicatePushdown - Groupby - selectivity,Without,80,25803489.9375
+PredicatePushdown - Groupby - selectivity,Without,80,25889877.444444444
+PredicatePushdown - Groupby - selectivity,Without,80,25773629.55
+PredicatePushdown - Groupby - selectivity,Without,80,25935940.0
+PredicatePushdown - Groupby - selectivity,Without,80,25760563.416666668
+PredicatePushdown - Groupby - selectivity,Without,80,25821696.525641024
+PredicatePushdown - Groupby - selectivity,Without,80,25761160.595238097
+PredicatePushdown - Groupby - selectivity,Without,80,25804482.066666666
+PredicatePushdown - Groupby - selectivity,Without,80,25764093.927083332
+PredicatePushdown - Groupby - selectivity,Without,80,25826813.6372549
+PredicatePushdown - Groupby - selectivity,Without,80,25769543.62037037
+PredicatePushdown - Groupby - selectivity,Without,80,25753019.94736842
+PredicatePushdown - Groupby - selectivity,Without,80,25738141.491666667
+PredicatePushdown - Groupby - selectivity,Without,20,26935283.666666668
+PredicatePushdown - Groupby - selectivity,Without,20,27050555.0
+PredicatePushdown - Groupby - selectivity,Without,20,26973162.333333332
+PredicatePushdown - Groupby - selectivity,Without,20,26959484.708333332
+PredicatePushdown - Groupby - selectivity,Without,20,27016849.266666666
+PredicatePushdown - Groupby - selectivity,Without,20,26930896.527777776
+PredicatePushdown - Groupby - selectivity,Without,20,26941235.57142857
+PredicatePushdown - Groupby - selectivity,Without,20,26938664.229166668
+PredicatePushdown - Groupby - selectivity,Without,20,26995944.111111112
+PredicatePushdown - Groupby - selectivity,Without,20,27001484.166666668
+PredicatePushdown - Groupby - selectivity,Without,20,26960657.954545453
+PredicatePushdown - Groupby - selectivity,Without,20,26992180.819444444
+PredicatePushdown - Groupby - selectivity,Without,20,26982085.32051282
+PredicatePushdown - Groupby - selectivity,Without,20,27009656.01190476
+PredicatePushdown - Groupby - selectivity,Without,20,26954571.244444445
+PredicatePushdown - Groupby - selectivity,Without,20,26984877.010416668
+PredicatePushdown - Groupby - selectivity,Without,20,26963303.45098039
+PredicatePushdown - Groupby - selectivity,Without,20,27037395.324074075
+PredicatePushdown - Groupby - selectivity,Without,20,27019469.824561402
+PredicatePushdown - Groupby - selectivity,Without,20,26936389.733333334
+ProjectionPushdown - Join,With,1000,67664978.66666667
+ProjectionPushdown - Join,With,1000,70034143.83333333
+ProjectionPushdown - Join,With,1000,70788853.66666667
+ProjectionPushdown - Join,With,1000,70352850.25
+ProjectionPushdown - Join,With,1000,70324129.33333333
+ProjectionPushdown - Join,With,1000,70005362.22222222
+ProjectionPushdown - Join,With,1000,70397381.0
+ProjectionPushdown - Join,With,1000,70526453.45833333
+ProjectionPushdown - Join,With,1000,69280263.22222222
+ProjectionPushdown - Join,With,1000,70168500.7
+ProjectionPushdown - Join,With,1000,69663287.42424242
+ProjectionPushdown - Join,With,1000,69456082.27777778
+ProjectionPushdown - Join,With,1000,69977397.87179486
+ProjectionPushdown - Join,With,1000,70106778.21428572
+ProjectionPushdown - Join,With,1000,69804709.2
+ProjectionPushdown - Join,With,1000,70072530.70833333
+ProjectionPushdown - Join,With,1000,69135408.60784313
+ProjectionPushdown - Join,With,1000,70158851.74074075
+ProjectionPushdown - Join,With,1000,69792863.6491228
+ProjectionPushdown - Join,With,1000,69927102.41666667
+ProjectionPushdown - Join,With,10,18994965.5
+ProjectionPushdown - Join,With,10,18952554.0625
+ProjectionPushdown - Join,With,10,18961168.375
+ProjectionPushdown - Join,With,10,18989047.3125
+ProjectionPushdown - Join,With,10,18968782.1
+ProjectionPushdown - Join,With,10,18916132.104166668
+ProjectionPushdown - Join,With,10,18950697.32142857
+ProjectionPushdown - Join,With,10,18991676.25
+ProjectionPushdown - Join,With,10,18950500.277777776
+ProjectionPushdown - Join,With,10,18964352.6375
+ProjectionPushdown - Join,With,10,18968020.193181816
+ProjectionPushdown - Join,With,10,18972284.65625
+ProjectionPushdown - Join,With,10,18971951.096153848
+ProjectionPushdown - Join,With,10,18941692.39285714
+ProjectionPushdown - Join,With,10,19023157.75
+ProjectionPushdown - Join,With,10,18950344.7890625
+ProjectionPushdown - Join,With,10,18919813.74264706
+ProjectionPushdown - Join,With,10,18977327.611111112
+ProjectionPushdown - Join,With,10,18942291.48026316
+ProjectionPushdown - Join,With,10,18930172.35625
+ProjectionPushdown - Join,With,100,23047409.0
+ProjectionPushdown - Join,With,100,23011061.214285713
+ProjectionPushdown - Join,With,100,23033085.95238095
+ProjectionPushdown - Join,With,100,23068872.17857143
+ProjectionPushdown - Join,With,100,23053143.34285714
+ProjectionPushdown - Join,With,100,23097154.0
+ProjectionPushdown - Join,With,100,23044698.591836736
+ProjectionPushdown - Join,With,100,23071640.089285713
+ProjectionPushdown - Join,With,100,22991236.301587302
+ProjectionPushdown - Join,With,100,23093669.385714285
+ProjectionPushdown - Join,With,100,23047392.85714286
+ProjectionPushdown - Join,With,100,22988458.44047619
+ProjectionPushdown - Join,With,100,23092076.945054945
+ProjectionPushdown - Join,With,100,23071971.887755103
+ProjectionPushdown - Join,With,100,23042235.752380952
+ProjectionPushdown - Join,With,100,23108425.25
+ProjectionPushdown - Join,With,100,23074763.974789917
+ProjectionPushdown - Join,With,100,23063553.666666668
+ProjectionPushdown - Join,With,100,22956738.616541352
+ProjectionPushdown - Join,With,100,23039227.335714284
+ProjectionPushdown - Join,Closures,1000,328015236.4
+ProjectionPushdown - Join,Closures,1000,323574795.4
+ProjectionPushdown - Join,Closures,1000,319555827.8
+ProjectionPushdown - Join,Closures,1000,331096032.8
+ProjectionPushdown - Join,Closures,1000,327230840.4
+ProjectionPushdown - Join,Closures,1000,318306244.8
+ProjectionPushdown - Join,Closures,1000,329885894.4
+ProjectionPushdown - Join,Closures,1000,330851889.4
+ProjectionPushdown - Join,Closures,1000,320884943.2
+ProjectionPushdown - Join,Closures,1000,319987764.0
+ProjectionPushdown - Join,Closures,1000,332441043.0
+ProjectionPushdown - Join,Closures,1000,325899427.6
+ProjectionPushdown - Join,Closures,1000,321582188.2
+ProjectionPushdown - Join,Closures,1000,320426462.4
+ProjectionPushdown - Join,Closures,1000,329112090.2
+ProjectionPushdown - Join,Closures,1000,331800717.0
+ProjectionPushdown - Join,Closures,1000,322878283.4
+ProjectionPushdown - Join,Closures,1000,323326756.6
+ProjectionPushdown - Join,Closures,1000,332052787.2
+ProjectionPushdown - Join,Closures,1000,326827600.2
+ProjectionPushdown - Join,Closures,10,15773330.555555556
+ProjectionPushdown - Join,Closures,10,15976943.611111112
+ProjectionPushdown - Join,Closures,10,16015575.592592593
+ProjectionPushdown - Join,Closures,10,16002010.583333334
+ProjectionPushdown - Join,Closures,10,16048980.755555555
+ProjectionPushdown - Join,Closures,10,16073526.777777778
+ProjectionPushdown - Join,Closures,10,15998046.682539683
+ProjectionPushdown - Join,Closures,10,15934027.097222222
+ProjectionPushdown - Join,Closures,10,16390159.111111112
+ProjectionPushdown - Join,Closures,10,16371689.733333332
+ProjectionPushdown - Join,Closures,10,16072330.515151516
+ProjectionPushdown - Join,Closures,10,16093913.722222222
+ProjectionPushdown - Join,Closures,10,16016872.547008548
+ProjectionPushdown - Join,Closures,10,16103953.61904762
+ProjectionPushdown - Join,Closures,10,16236034.874074074
+ProjectionPushdown - Join,Closures,10,16299944.583333334
+ProjectionPushdown - Join,Closures,10,15998493.065359477
+ProjectionPushdown - Join,Closures,10,16134923.617283951
+ProjectionPushdown - Join,Closures,10,16470758.12865497
+ProjectionPushdown - Join,Closures,10,16423306.955555556
+ProjectionPushdown - Join,Closures,100,44753507.75
+ProjectionPushdown - Join,Closures,100,44914575.375
+ProjectionPushdown - Join,Closures,100,44737265.833333336
+ProjectionPushdown - Join,Closures,100,44847029.25
+ProjectionPushdown - Join,Closures,100,45250241.05
+ProjectionPushdown - Join,Closures,100,45342104.583333336
+ProjectionPushdown - Join,Closures,100,45462057.64285714
+ProjectionPushdown - Join,Closures,100,45161013.5
+ProjectionPushdown - Join,Closures,100,45340956.30555555
+ProjectionPushdown - Join,Closures,100,45395295.425
+ProjectionPushdown - Join,Closures,100,45051026.36363637
+ProjectionPushdown - Join,Closures,100,44804562.583333336
+ProjectionPushdown - Join,Closures,100,45467235.788461536
+ProjectionPushdown - Join,Closures,100,45185622.71428572
+ProjectionPushdown - Join,Closures,100,45085741.15
+ProjectionPushdown - Join,Closures,100,45120126.71875
+ProjectionPushdown - Join,Closures,100,45006733.205882356
+ProjectionPushdown - Join,Closures,100,45328617.791666664
+ProjectionPushdown - Join,Closures,100,45447559.05263158
+ProjectionPushdown - Join,Closures,100,45431899.3375
+ProjectionPushdown - Join,Without,1000,359738822.6
+ProjectionPushdown - Join,Without,1000,360050358.2
+ProjectionPushdown - Join,Without,1000,359333458.8
+ProjectionPushdown - Join,Without,1000,360295409.6
+ProjectionPushdown - Join,Without,1000,359812849.8
+ProjectionPushdown - Join,Without,1000,358954867.6
+ProjectionPushdown - Join,Without,1000,359234343.0
+ProjectionPushdown - Join,Without,1000,359168902.6
+ProjectionPushdown - Join,Without,1000,357917433.6
+ProjectionPushdown - Join,Without,1000,359458060.8
+ProjectionPushdown - Join,Without,1000,361676794.6
+ProjectionPushdown - Join,Without,1000,356938243.0
+ProjectionPushdown - Join,Without,1000,356322565.8
+ProjectionPushdown - Join,Without,1000,360424177.2
+ProjectionPushdown - Join,Without,1000,358509520.4
+ProjectionPushdown - Join,Without,1000,358372174.0
+ProjectionPushdown - Join,Without,1000,358021257.0
+ProjectionPushdown - Join,Without,1000,358962203.2
+ProjectionPushdown - Join,Without,1000,359037282.8
+ProjectionPushdown - Join,Without,1000,359242721.2
+ProjectionPushdown - Join,Without,10,25558219.166666668
+ProjectionPushdown - Join,Without,10,25654669.25
+ProjectionPushdown - Join,Without,10,25616501.777777776
+ProjectionPushdown - Join,Without,10,25686079.083333332
+ProjectionPushdown - Join,Without,10,25690370.866666667
+ProjectionPushdown - Join,Without,10,25779059.444444444
+ProjectionPushdown - Join,Without,10,25738909.714285713
+ProjectionPushdown - Join,Without,10,25762046.0
+ProjectionPushdown - Join,Without,10,25643656.759259257
+ProjectionPushdown - Join,Without,10,25699581.883333333
+ProjectionPushdown - Join,Without,10,25610488.848484848
+ProjectionPushdown - Join,Without,10,25618298.583333332
+ProjectionPushdown - Join,Without,10,25523769.205128204
+ProjectionPushdown - Join,Without,10,25543682.67857143
+ProjectionPushdown - Join,Without,10,25493005.966666665
+ProjectionPushdown - Join,Without,10,25534578.458333332
+ProjectionPushdown - Join,Without,10,25495797.088235293
+ProjectionPushdown - Join,Without,10,25634991.740740743
+ProjectionPushdown - Join,Without,10,25653636.44736842
+ProjectionPushdown - Join,Without,10,25471862.658333335
+ProjectionPushdown - Join,Without,100,54556971.0
+ProjectionPushdown - Join,Without,100,55016213.333333336
+ProjectionPushdown - Join,Without,100,55482243.0
+ProjectionPushdown - Join,Without,100,54571795.833333336
+ProjectionPushdown - Join,Without,100,54075970.0
+ProjectionPushdown - Join,Without,100,54221365.722222224
+ProjectionPushdown - Join,Without,100,54622541.71428572
+ProjectionPushdown - Join,Without,100,54435049.125
+ProjectionPushdown - Join,Without,100,54201527.44444445
+ProjectionPushdown - Join,Without,100,54314463.733333334
+ProjectionPushdown - Join,Without,100,54285215.57575758
+ProjectionPushdown - Join,Without,100,54054867.63888889
+ProjectionPushdown - Join,Without,100,54316845.56410257
+ProjectionPushdown - Join,Without,100,54563804.428571425
+ProjectionPushdown - Join,Without,100,54334962.53333333
+ProjectionPushdown - Join,Without,100,54232190.583333336
+ProjectionPushdown - Join,Without,100,54392786.49019608
+ProjectionPushdown - Join,Without,100,54318884.12962963
+ProjectionPushdown - Join,Without,100,54226772.19298246
+ProjectionPushdown - Join,Without,100,54332429.5
+PredicatePushdown - Groupby - row,With,10000,2487824.379310345
+PredicatePushdown - Groupby - row,With,10000,2480552.9913793104
+PredicatePushdown - Groupby - row,With,10000,2480730.735632184
+PredicatePushdown - Groupby - row,With,10000,2485023.353448276
+PredicatePushdown - Groupby - row,With,10000,2482681.9862068966
+PredicatePushdown - Groupby - row,With,10000,2475709.0344827585
+PredicatePushdown - Groupby - row,With,10000,2479176.780788177
+PredicatePushdown - Groupby - row,With,10000,2484286.0538793104
+PredicatePushdown - Groupby - row,With,10000,2485790.22605364
+PredicatePushdown - Groupby - row,With,10000,2485953.796551724
+PredicatePushdown - Groupby - row,With,10000,2486687.0329153603
+PredicatePushdown - Groupby - row,With,10000,2487670.849137931
+PredicatePushdown - Groupby - row,With,10000,2490619.2320954907
+PredicatePushdown - Groupby - row,With,10000,2488774.2598522166
+PredicatePushdown - Groupby - row,With,10000,2491129.5586206894
+PredicatePushdown - Groupby - row,With,10000,2490038.1745689656
+PredicatePushdown - Groupby - row,With,10000,2488244.396551724
+PredicatePushdown - Groupby - row,With,10000,2488535.247126437
+PredicatePushdown - Groupby - row,With,10000,2492084.3575317604
+PredicatePushdown - Groupby - row,With,10000,2486712.5068965517
+PredicatePushdown - Groupby - row,With,1000000,214947557.0
+PredicatePushdown - Groupby - row,With,1000000,217176300.0
+PredicatePushdown - Groupby - row,With,1000000,215322142.0
+PredicatePushdown - Groupby - row,With,1000000,216587691.25
+PredicatePushdown - Groupby - row,With,1000000,213409186.6
+PredicatePushdown - Groupby - row,With,1000000,213372188.66666666
+PredicatePushdown - Groupby - row,With,1000000,214103307.42857143
+PredicatePushdown - Groupby - row,With,1000000,214328081.75
+PredicatePushdown - Groupby - row,With,1000000,214982483.44444445
+PredicatePushdown - Groupby - row,With,1000000,214883215.4
+PredicatePushdown - Groupby - row,With,1000000,215108467.0
+PredicatePushdown - Groupby - row,With,1000000,214327589.83333334
+PredicatePushdown - Groupby - row,With,1000000,213725454.0
+PredicatePushdown - Groupby - row,With,1000000,214323432.85714287
+PredicatePushdown - Groupby - row,With,1000000,214040636.06666666
+PredicatePushdown - Groupby - row,With,1000000,214347006.3125
+PredicatePushdown - Groupby - row,With,1000000,214779550.17647058
+PredicatePushdown - Groupby - row,With,1000000,214309405.94444445
+PredicatePushdown - Groupby - row,With,1000000,214527454.7368421
+PredicatePushdown - Groupby - row,With,1000000,214526746.4
+PredicatePushdown - Groupby - row,With,100000,22140352.285714287
+PredicatePushdown - Groupby - row,With,100000,22057444.42857143
+PredicatePushdown - Groupby - row,With,100000,22121175.333333332
+PredicatePushdown - Groupby - row,With,100000,22066341.32142857
+PredicatePushdown - Groupby - row,With,100000,22109210.942857143
+PredicatePushdown - Groupby - row,With,100000,22056245.285714287
+PredicatePushdown - Groupby - row,With,100000,22096462.408163264
+PredicatePushdown - Groupby - row,With,100000,22066811.82142857
+PredicatePushdown - Groupby - row,With,100000,22106087.444444444
+PredicatePushdown - Groupby - row,With,100000,22137568.64285714
+PredicatePushdown - Groupby - row,With,100000,22204182.116883118
+PredicatePushdown - Groupby - row,With,100000,22140255.166666668
+PredicatePushdown - Groupby - row,With,100000,22134981.813186813
+PredicatePushdown - Groupby - row,With,100000,22162431.163265307
+PredicatePushdown - Groupby - row,With,100000,22352871.942857143
+PredicatePushdown - Groupby - row,With,100000,22309381.32142857
+PredicatePushdown - Groupby - row,With,100000,22115456.62184874
+PredicatePushdown - Groupby - row,With,100000,22301397.944444444
+PredicatePushdown - Groupby - row,With,100000,22239188.27819549
+PredicatePushdown - Groupby - row,With,100000,22333943.207142856
+PredicatePushdown - Groupby - row,With,10000000,2182526258.0
+PredicatePushdown - Groupby - row,With,10000000,2262794559.0
+PredicatePushdown - Groupby - row,With,10000000,2171347278.0
+PredicatePushdown - Groupby - row,With,10000000,2133861676.0
+PredicatePushdown - Groupby - row,With,10000000,2163549808.0
+PredicatePushdown - Groupby - row,With,10000000,2170150079.0
+PredicatePushdown - Groupby - row,With,10000000,2237273532.0
+PredicatePushdown - Groupby - row,With,10000000,2213168454.0
+PredicatePushdown - Groupby - row,With,10000000,2217108536.0
+PredicatePushdown - Groupby - row,With,10000000,2125395968.0
+PredicatePushdown - Groupby - row,With,10000000,2159823703.0
+PredicatePushdown - Groupby - row,With,10000000,2223155858.0
+PredicatePushdown - Groupby - row,With,10000000,2152541251.0
+PredicatePushdown - Groupby - row,With,10000000,2335860187.0
+PredicatePushdown - Groupby - row,With,10000000,2217286076.0
+PredicatePushdown - Groupby - row,With,10000000,2227688655.0
+PredicatePushdown - Groupby - row,With,10000000,2156286239.0
+PredicatePushdown - Groupby - row,With,10000000,2228429017.0
+PredicatePushdown - Groupby - row,With,10000000,2214429624.0
+PredicatePushdown - Groupby - row,With,10000000,2436549223.0
+PredicatePushdown - Groupby - row,Closures,10000,2360060.35
+PredicatePushdown - Groupby - row,Closures,10000,2376477.6333333333
+PredicatePushdown - Groupby - row,Closures,10000,2382786.9055555556
+PredicatePushdown - Groupby - row,Closures,10000,2370111.2083333335
+PredicatePushdown - Groupby - row,Closures,10000,2367177.6766666668
+PredicatePushdown - Groupby - row,Closures,10000,2384021.45
+PredicatePushdown - Groupby - row,Closures,10000,2384641.311904762
+PredicatePushdown - Groupby - row,Closures,10000,2389924.5083333333
+PredicatePushdown - Groupby - row,Closures,10000,2390721.0185185187
+PredicatePushdown - Groupby - row,Closures,10000,2391888.2533333334
+PredicatePushdown - Groupby - row,Closures,10000,2390177.528787879
+PredicatePushdown - Groupby - row,Closures,10000,2395173.1194444443
+PredicatePushdown - Groupby - row,Closures,10000,2395144.7448717947
+PredicatePushdown - Groupby - row,Closures,10000,2396470.9261904764
+PredicatePushdown - Groupby - row,Closures,10000,2388037.1222222224
+PredicatePushdown - Groupby - row,Closures,10000,2392279.796875
+PredicatePushdown - Groupby - row,Closures,10000,2402166.144117647
+PredicatePushdown - Groupby - row,Closures,10000,2390554.433333333
+PredicatePushdown - Groupby - row,Closures,10000,2389373.7140350877
+PredicatePushdown - Groupby - row,Closures,10000,2387331.178333333
+PredicatePushdown - Groupby - row,Closures,1000000,247204156.0
+PredicatePushdown - Groupby - row,Closures,1000000,230952488.5
+PredicatePushdown - Groupby - row,Closures,1000000,236123700.66666666
+PredicatePushdown - Groupby - row,Closures,1000000,235221026.25
+PredicatePushdown - Groupby - row,Closures,1000000,230871999.4
+PredicatePushdown - Groupby - row,Closures,1000000,236298511.83333334
+PredicatePushdown - Groupby - row,Closures,1000000,228166177.42857143
+PredicatePushdown - Groupby - row,Closures,1000000,233093560.25
+PredicatePushdown - Groupby - row,Closures,1000000,236257953.33333334
+PredicatePushdown - Groupby - row,Closures,1000000,233055248.2
+PredicatePushdown - Groupby - row,Closures,1000000,233557664.1818182
+PredicatePushdown - Groupby - row,Closures,1000000,232893754.41666666
+PredicatePushdown - Groupby - row,Closures,1000000,234743357.76923078
+PredicatePushdown - Groupby - row,Closures,1000000,233498706.42857143
+PredicatePushdown - Groupby - row,Closures,1000000,232840999.6
+PredicatePushdown - Groupby - row,Closures,1000000,232576678.0
+PredicatePushdown - Groupby - row,Closures,1000000,232244329.05882353
+PredicatePushdown - Groupby - row,Closures,1000000,233364868.33333334
+PredicatePushdown - Groupby - row,Closures,1000000,232305429.21052632
+PredicatePushdown - Groupby - row,Closures,1000000,233605692.2
+PredicatePushdown - Groupby - row,Closures,100000,21804161.42857143
+PredicatePushdown - Groupby - row,Closures,100000,22025730.785714287
+PredicatePushdown - Groupby - row,Closures,100000,21860017.095238097
+PredicatePushdown - Groupby - row,Closures,100000,21924240.92857143
+PredicatePushdown - Groupby - row,Closures,100000,22081530.34285714
+PredicatePushdown - Groupby - row,Closures,100000,21992558.095238097
+PredicatePushdown - Groupby - row,Closures,100000,21965363.265306123
+PredicatePushdown - Groupby - row,Closures,100000,22035027.32142857
+PredicatePushdown - Groupby - row,Closures,100000,22019518.492063493
+PredicatePushdown - Groupby - row,Closures,100000,22080170.042857144
+PredicatePushdown - Groupby - row,Closures,100000,22078580.727272727
+PredicatePushdown - Groupby - row,Closures,100000,22059472.714285713
+PredicatePushdown - Groupby - row,Closures,100000,22098543.923076924
+PredicatePushdown - Groupby - row,Closures,100000,22233606.112244897
+PredicatePushdown - Groupby - row,Closures,100000,22141876.685714286
+PredicatePushdown - Groupby - row,Closures,100000,22036281.625
+PredicatePushdown - Groupby - row,Closures,100000,21934232.2605042
+PredicatePushdown - Groupby - row,Closures,100000,21924825.76984127
+PredicatePushdown - Groupby - row,Closures,100000,21946599.842105262
+PredicatePushdown - Groupby - row,Closures,100000,21943412.17857143
+PredicatePushdown - Groupby - row,Closures,10000000,2362363570.0
+PredicatePushdown - Groupby - row,Closures,10000000,2329671789.0
+PredicatePushdown - Groupby - row,Closures,10000000,2341118955.0
+PredicatePushdown - Groupby - row,Closures,10000000,2608208334.0
+PredicatePushdown - Groupby - row,Closures,10000000,2680389870.0
+PredicatePushdown - Groupby - row,Closures,10000000,2551799952.0
+PredicatePushdown - Groupby - row,Closures,10000000,2264669607.0
+PredicatePushdown - Groupby - row,Closures,10000000,2268527086.0
+PredicatePushdown - Groupby - row,Closures,10000000,2553712592.0
+PredicatePushdown - Groupby - row,Closures,10000000,2644305490.0
+PredicatePushdown - Groupby - row,Closures,10000000,2354853989.0
+PredicatePushdown - Groupby - row,Closures,10000000,2378012370.0
+PredicatePushdown - Groupby - row,Closures,10000000,2680188400.0
+PredicatePushdown - Groupby - row,Closures,10000000,2618993639.0
+PredicatePushdown - Groupby - row,Closures,10000000,2663823200.0
+PredicatePushdown - Groupby - row,Closures,10000000,2361917148.0
+PredicatePushdown - Groupby - row,Closures,10000000,2350709697.0
+PredicatePushdown - Groupby - row,Closures,10000000,2595909245.0
+PredicatePushdown - Groupby - row,Closures,10000000,2667610400.0
+PredicatePushdown - Groupby - row,Closures,10000000,2384871169.0
+PredicatePushdown - Groupby - row,Without,10000,2916689.8163265307
+PredicatePushdown - Groupby - row,Without,10000,2908834.8673469387
+PredicatePushdown - Groupby - row,Without,10000,2918743.170068027
+PredicatePushdown - Groupby - row,Without,10000,2919644.9897959186
+PredicatePushdown - Groupby - row,Without,10000,2919169.326530612
+PredicatePushdown - Groupby - row,Without,10000,2928675.425170068
+PredicatePushdown - Groupby - row,Without,10000,2957973.638483965
+PredicatePushdown - Groupby - row,Without,10000,2965949.68622449
+PredicatePushdown - Groupby - row,Without,10000,2960668.4195011337
+PredicatePushdown - Groupby - row,Without,10000,2960418.7285714285
+PredicatePushdown - Groupby - row,Without,10000,2958564.9888682747
+PredicatePushdown - Groupby - row,Without,10000,2963715.6598639456
+PredicatePushdown - Groupby - row,Without,10000,2956121.6405023546
+PredicatePushdown - Groupby - row,Without,10000,2950258.720116618
+PredicatePushdown - Groupby - row,Without,10000,2959628.77414966
+PredicatePushdown - Groupby - row,Without,10000,2981201.1938775512
+PredicatePushdown - Groupby - row,Without,10000,2978000.1800720287
+PredicatePushdown - Groupby - row,Without,10000,2964195.9795918367
+PredicatePushdown - Groupby - row,Without,10000,2939841.5810955963
+PredicatePushdown - Groupby - row,Without,10000,2942995.169387755
+PredicatePushdown - Groupby - row,Without,1000000,264360776.0
+PredicatePushdown - Groupby - row,Without,1000000,265377997.0
+PredicatePushdown - Groupby - row,Without,1000000,264642427.33333334
+PredicatePushdown - Groupby - row,Without,1000000,265951535.5
+PredicatePushdown - Groupby - row,Without,1000000,264787494.8
+PredicatePushdown - Groupby - row,Without,1000000,267299547.83333334
+PredicatePushdown - Groupby - row,Without,1000000,264463947.57142857
+PredicatePushdown - Groupby - row,Without,1000000,264624302.625
+PredicatePushdown - Groupby - row,Without,1000000,275743992.7777778
+PredicatePushdown - Groupby - row,Without,1000000,265635190.9
+PredicatePushdown - Groupby - row,Without,1000000,264286991.9090909
+PredicatePushdown - Groupby - row,Without,1000000,268415200.33333334
+PredicatePushdown - Groupby - row,Without,1000000,272456759.3076923
+PredicatePushdown - Groupby - row,Without,1000000,264548236.64285713
+PredicatePushdown - Groupby - row,Without,1000000,278826503.46666664
+PredicatePushdown - Groupby - row,Without,1000000,264409935.125
+PredicatePushdown - Groupby - row,Without,1000000,272719325.35294116
+PredicatePushdown - Groupby - row,Without,1000000,264785717.5
+PredicatePushdown - Groupby - row,Without,1000000,269669729.31578946
+PredicatePushdown - Groupby - row,Without,1000000,265937012.75
+PredicatePushdown - Groupby - row,Without,100000,26718325.166666668
+PredicatePushdown - Groupby - row,Without,100000,26734131.416666668
+PredicatePushdown - Groupby - row,Without,100000,26752191.222222224
+PredicatePushdown - Groupby - row,Without,100000,26869780.5
+PredicatePushdown - Groupby - row,Without,100000,27544460.933333334
+PredicatePushdown - Groupby - row,Without,100000,27176516.638888888
+PredicatePushdown - Groupby - row,Without,100000,26941627.19047619
+PredicatePushdown - Groupby - row,Without,100000,27090667.1875
+PredicatePushdown - Groupby - row,Without,100000,26764312.62962963
+PredicatePushdown - Groupby - row,Without,100000,26943447.85
+PredicatePushdown - Groupby - row,Without,100000,26752680.78787879
+PredicatePushdown - Groupby - row,Without,100000,26800569.833333332
+PredicatePushdown - Groupby - row,Without,100000,26687845.576923076
+PredicatePushdown - Groupby - row,Without,100000,26767193.214285713
+PredicatePushdown - Groupby - row,Without,100000,26772237.333333332
+PredicatePushdown - Groupby - row,Without,100000,27028317.458333332
+PredicatePushdown - Groupby - row,Without,100000,26867189.333333332
+PredicatePushdown - Groupby - row,Without,100000,26813996.509259257
+PredicatePushdown - Groupby - row,Without,100000,26791825.57894737
+PredicatePushdown - Groupby - row,Without,100000,26896737.666666668
+PredicatePushdown - Groupby - row,Without,10000000,2709767410.0
+PredicatePushdown - Groupby - row,Without,10000000,2712748525.0
+PredicatePushdown - Groupby - row,Without,10000000,2702589652.0
+PredicatePushdown - Groupby - row,Without,10000000,2673054309.0
+PredicatePushdown - Groupby - row,Without,10000000,2686669772.0
+PredicatePushdown - Groupby - row,Without,10000000,2712606822.0
+PredicatePushdown - Groupby - row,Without,10000000,2900984885.0
+PredicatePushdown - Groupby - row,Without,10000000,2696022901.0
+PredicatePushdown - Groupby - row,Without,10000000,2706211794.0
+PredicatePushdown - Groupby - row,Without,10000000,2637660206.0
+PredicatePushdown - Groupby - row,Without,10000000,2677305697.0
+PredicatePushdown - Groupby - row,Without,10000000,2710259555.0
+PredicatePushdown - Groupby - row,Without,10000000,2651928072.0
+PredicatePushdown - Groupby - row,Without,10000000,2628160313.0
+PredicatePushdown - Groupby - row,Without,10000000,2689138916.0
+PredicatePushdown - Groupby - row,Without,10000000,2707861180.0
+PredicatePushdown - Groupby - row,Without,10000000,2704371145.0
+PredicatePushdown - Groupby - row,Without,10000000,2713716605.0
+PredicatePushdown - Groupby - row,Without,10000000,2630623980.0
+PredicatePushdown - Groupby - row,Without,10000000,2710956404.0
+PredicatePushdown - Join - row,With,10000,7192368.19047619
+PredicatePushdown - Join - row,With,10000,7127816.738095238
+PredicatePushdown - Join - row,With,10000,7154774.222222222
+PredicatePushdown - Join - row,With,10000,7113437.845238095
+PredicatePushdown - Join - row,With,10000,7121858.6095238095
+PredicatePushdown - Join - row,With,10000,7053794.063492063
+PredicatePushdown - Join - row,With,10000,7076164.755102041
+PredicatePushdown - Join - row,With,10000,7080142.035714285
+PredicatePushdown - Join - row,With,10000,7078926.867724868
+PredicatePushdown - Join - row,With,10000,7134677.671428571
+PredicatePushdown - Join - row,With,10000,7086141.5800865805
+PredicatePushdown - Join - row,With,10000,7109330.666666667
+PredicatePushdown - Join - row,With,10000,7072678.501831502
+PredicatePushdown - Join - row,With,10000,7116033.908163265
+PredicatePushdown - Join - row,With,10000,7120586.46031746
+PredicatePushdown - Join - row,With,10000,7105748.202380952
+PredicatePushdown - Join - row,With,10000,7084092.700280112
+PredicatePushdown - Join - row,With,10000,7076383.865079365
+PredicatePushdown - Join - row,With,10000,7108115.090225564
+PredicatePushdown - Join - row,With,10000,7109804.919047619
+PredicatePushdown - Join - row,With,1000000,810057414.0
+PredicatePushdown - Join - row,With,1000000,805348029.5
+PredicatePushdown - Join - row,With,1000000,805426096.0
+PredicatePushdown - Join - row,With,1000000,805036364.5
+PredicatePushdown - Join - row,With,1000000,803085556.5
+PredicatePushdown - Join - row,With,1000000,805853407.0
+PredicatePushdown - Join - row,With,1000000,824091743.5
+PredicatePushdown - Join - row,With,1000000,804807694.0
+PredicatePushdown - Join - row,With,1000000,804898784.0
+PredicatePushdown - Join - row,With,1000000,845902169.5
+PredicatePushdown - Join - row,With,1000000,808282667.0
+PredicatePushdown - Join - row,With,1000000,817995811.0
+PredicatePushdown - Join - row,With,1000000,810749289.0
+PredicatePushdown - Join - row,With,1000000,805291061.0
+PredicatePushdown - Join - row,With,1000000,804607361.5
+PredicatePushdown - Join - row,With,1000000,801892037.5
+PredicatePushdown - Join - row,With,1000000,803853827.0
+PredicatePushdown - Join - row,With,1000000,811390232.5
+PredicatePushdown - Join - row,With,1000000,833864037.5
+PredicatePushdown - Join - row,With,1000000,804045844.5
+PredicatePushdown - Join - row,With,100000,73456841.5
+PredicatePushdown - Join - row,With,100000,73956096.0
+PredicatePushdown - Join - row,With,100000,74200415.16666667
+PredicatePushdown - Join - row,With,100000,73725110.75
+PredicatePushdown - Join - row,With,100000,73871479.7
+PredicatePushdown - Join - row,With,100000,74066960.25
+PredicatePushdown - Join - row,With,100000,73675317.21428572
+PredicatePushdown - Join - row,With,100000,73388107.125
+PredicatePushdown - Join - row,With,100000,73675209.72222222
+PredicatePushdown - Join - row,With,100000,73714864.8
+PredicatePushdown - Join - row,With,100000,74272896.54545455
+PredicatePushdown - Join - row,With,100000,74247192.25
+PredicatePushdown - Join - row,With,100000,74466864.23076923
+PredicatePushdown - Join - row,With,100000,73882104.39285715
+PredicatePushdown - Join - row,With,100000,74103524.56666666
+PredicatePushdown - Join - row,With,100000,74117783.59375
+PredicatePushdown - Join - row,With,100000,74412637.5
+PredicatePushdown - Join - row,With,100000,74239988.16666667
+PredicatePushdown - Join - row,With,100000,73765889.60526316
+PredicatePushdown - Join - row,With,100000,74163868.825
+PredicatePushdown - Join - row,With,10000000,9578716261.0
+PredicatePushdown - Join - row,With,10000000,9903342869.0
+PredicatePushdown - Join - row,With,10000000,9884452304.0
+PredicatePushdown - Join - row,With,10000000,9782850224.0
+PredicatePushdown - Join - row,With,10000000,9900979224.0
+PredicatePushdown - Join - row,With,10000000,9767929801.0
+PredicatePushdown - Join - row,With,10000000,9973727186.0
+PredicatePushdown - Join - row,With,10000000,10026065455.0
+PredicatePushdown - Join - row,With,10000000,9911183067.0
+PredicatePushdown - Join - row,With,10000000,9517101580.0
+PredicatePushdown - Join - row,With,10000000,9686299069.0
+PredicatePushdown - Join - row,With,10000000,9671646917.0
+PredicatePushdown - Join - row,With,10000000,9546788599.0
+PredicatePushdown - Join - row,With,10000000,9866054717.0
+PredicatePushdown - Join - row,With,10000000,9768959245.0
+PredicatePushdown - Join - row,With,10000000,9511647202.0
+PredicatePushdown - Join - row,With,10000000,9624042337.0
+PredicatePushdown - Join - row,With,10000000,9594828426.0
+PredicatePushdown - Join - row,With,10000000,9617485837.0
+PredicatePushdown - Join - row,With,10000000,9720121098.0
+PredicatePushdown - Join - row,Closures,10000,8637325.88235294
+PredicatePushdown - Join - row,Closures,10000,8600807.323529411
+PredicatePushdown - Join - row,Closures,10000,8599869.392156864
+PredicatePushdown - Join - row,Closures,10000,8654161.63235294
+PredicatePushdown - Join - row,Closures,10000,8577598.623529412
+PredicatePushdown - Join - row,Closures,10000,8571680.11764706
+PredicatePushdown - Join - row,Closures,10000,8612161.462184874
+PredicatePushdown - Join - row,Closures,10000,8648183.05882353
+PredicatePushdown - Join - row,Closures,10000,8589218.08496732
+PredicatePushdown - Join - row,Closures,10000,8583711.305882353
+PredicatePushdown - Join - row,Closures,10000,8605246.288770054
+PredicatePushdown - Join - row,Closures,10000,8592115.470588235
+PredicatePushdown - Join - row,Closures,10000,8611023.398190046
+PredicatePushdown - Join - row,Closures,10000,8595010.5
+PredicatePushdown - Join - row,Closures,10000,8598408.333333334
+PredicatePushdown - Join - row,Closures,10000,8597241.797794119
+PredicatePushdown - Join - row,Closures,10000,8580871.397923876
+PredicatePushdown - Join - row,Closures,10000,8596933.699346405
+PredicatePushdown - Join - row,Closures,10000,8613243.204334365
+PredicatePushdown - Join - row,Closures,10000,8630249.679411765
+PredicatePushdown - Join - row,Closures,1000000,997085438.0
+PredicatePushdown - Join - row,Closures,1000000,997650780.0
+PredicatePushdown - Join - row,Closures,1000000,1000378024.5
+PredicatePushdown - Join - row,Closures,1000000,1024654663.5
+PredicatePushdown - Join - row,Closures,1000000,1016685912.5
+PredicatePushdown - Join - row,Closures,1000000,1000912652.0
+PredicatePushdown - Join - row,Closures,1000000,1017730426.5
+PredicatePushdown - Join - row,Closures,1000000,1072174090.5
+PredicatePushdown - Join - row,Closures,1000000,987211338.5
+PredicatePushdown - Join - row,Closures,1000000,1006366587.0
+PredicatePushdown - Join - row,Closures,1000000,987865441.5
+PredicatePushdown - Join - row,Closures,1000000,994441685.0
+PredicatePushdown - Join - row,Closures,1000000,983531241.5
+PredicatePushdown - Join - row,Closures,1000000,1122120920.5
+PredicatePushdown - Join - row,Closures,1000000,1004661972.5
+PredicatePushdown - Join - row,Closures,1000000,1000974021.0
+PredicatePushdown - Join - row,Closures,1000000,1010542906.5
+PredicatePushdown - Join - row,Closures,1000000,1033860272.0
+PredicatePushdown - Join - row,Closures,1000000,1000627725.5
+PredicatePushdown - Join - row,Closures,1000000,1032907134.5
+PredicatePushdown - Join - row,Closures,100000,92367782.0
+PredicatePushdown - Join - row,Closures,100000,93306611.0
+PredicatePushdown - Join - row,Closures,100000,92142052.33333333
+PredicatePushdown - Join - row,Closures,100000,94959739.5
+PredicatePushdown - Join - row,Closures,100000,92718680.1
+PredicatePushdown - Join - row,Closures,100000,93338518.83333333
+PredicatePushdown - Join - row,Closures,100000,93366114.35714285
+PredicatePushdown - Join - row,Closures,100000,93515706.6875
+PredicatePushdown - Join - row,Closures,100000,92758258.1111111
+PredicatePushdown - Join - row,Closures,100000,93358592.65
+PredicatePushdown - Join - row,Closures,100000,93959704.68181819
+PredicatePushdown - Join - row,Closures,100000,92934811.25
+PredicatePushdown - Join - row,Closures,100000,93506142.1923077
+PredicatePushdown - Join - row,Closures,100000,93396763.85714285
+PredicatePushdown - Join - row,Closures,100000,93391477.96666667
+PredicatePushdown - Join - row,Closures,100000,93233693.71875
+PredicatePushdown - Join - row,Closures,100000,92870386.35294117
+PredicatePushdown - Join - row,Closures,100000,93174994.97222222
+PredicatePushdown - Join - row,Closures,100000,94213716.73684211
+PredicatePushdown - Join - row,Closures,100000,94405831.05
+PredicatePushdown - Join - row,Without,10000,21647234.285714287
+PredicatePushdown - Join - row,Without,10000,21669082.5
+PredicatePushdown - Join - row,Without,10000,21937405.14285714
+PredicatePushdown - Join - row,Without,10000,21818630.82142857
+PredicatePushdown - Join - row,Without,10000,21831417.542857144
+PredicatePushdown - Join - row,Without,10000,21826628.07142857
+PredicatePushdown - Join - row,Without,10000,21779793.204081632
+PredicatePushdown - Join - row,Without,10000,21811420.35714286
+PredicatePushdown - Join - row,Without,10000,21787067.174603175
+PredicatePushdown - Join - row,Without,10000,21818666.328571428
+PredicatePushdown - Join - row,Without,10000,21839615.42857143
+PredicatePushdown - Join - row,Without,10000,21852021.845238097
+PredicatePushdown - Join - row,Without,10000,21844286.065934066
+PredicatePushdown - Join - row,Without,10000,21804365.387755103
+PredicatePushdown - Join - row,Without,10000,21813217.21904762
+PredicatePushdown - Join - row,Without,10000,21815688.19642857
+PredicatePushdown - Join - row,Without,10000,21820173.06722689
+PredicatePushdown - Join - row,Without,10000,21798448.492063493
+PredicatePushdown - Join - row,Without,10000,21782504.59398496
+PredicatePushdown - Join - row,Without,10000,21820593.60714286
+PredicatePushdown - Join - row,Without,1000000,2298787711.0
+PredicatePushdown - Join - row,Without,1000000,2365491097.0
+PredicatePushdown - Join - row,Without,1000000,2310228966.0
+PredicatePushdown - Join - row,Without,1000000,2387084872.0
+PredicatePushdown - Join - row,Without,1000000,2380135773.0
+PredicatePushdown - Join - row,Without,1000000,2387639758.0
+PredicatePushdown - Join - row,Without,1000000,2313829605.0
+PredicatePushdown - Join - row,Without,1000000,2396847627.0
+PredicatePushdown - Join - row,Without,1000000,2298914016.0
+PredicatePushdown - Join - row,Without,1000000,2344837389.0
+PredicatePushdown - Join - row,Without,1000000,2298265698.0
+PredicatePushdown - Join - row,Without,1000000,2368408917.0
+PredicatePushdown - Join - row,Without,1000000,2294388232.0
+PredicatePushdown - Join - row,Without,1000000,2358956773.0
+PredicatePushdown - Join - row,Without,1000000,2348309348.0
+PredicatePushdown - Join - row,Without,1000000,2357465155.0
+PredicatePushdown - Join - row,Without,1000000,2287724237.0
+PredicatePushdown - Join - row,Without,1000000,2368438734.0
+PredicatePushdown - Join - row,Without,1000000,2332735830.0
+PredicatePushdown - Join - row,Without,1000000,2360664551.0
+PredicatePushdown - Join - row,Without,100000,219358325.0
+PredicatePushdown - Join - row,Without,100000,217063241.0
+PredicatePushdown - Join - row,Without,100000,217777169.0
+PredicatePushdown - Join - row,Without,100000,216748542.5
+PredicatePushdown - Join - row,Without,100000,217621687.2
+PredicatePushdown - Join - row,Without,100000,218771087.83333334
+PredicatePushdown - Join - row,Without,100000,217014470.0
+PredicatePushdown - Join - row,Without,100000,220182817.25
+PredicatePushdown - Join - row,Without,100000,218917395.55555555
+PredicatePushdown - Join - row,Without,100000,218449326.9
+PredicatePushdown - Join - row,Without,100000,217960488.36363637
+PredicatePushdown - Join - row,Without,100000,218468532.75
+PredicatePushdown - Join - row,Without,100000,219170675.3846154
+PredicatePushdown - Join - row,Without,100000,218839942.7142857
+PredicatePushdown - Join - row,Without,100000,218637246.66666666
+PredicatePushdown - Join - row,Without,100000,220006856.8125
+PredicatePushdown - Join - row,Without,100000,219260591.82352942
+PredicatePushdown - Join - row,Without,100000,218386387.3888889
+PredicatePushdown - Join - row,Without,100000,218327249.15789473
+PredicatePushdown - Join - row,Without,100000,218003364.95
+PredicatePushdown - Join - row,Without,10000000,24500240704.0
+PredicatePushdown - Join - row,Without,10000000,24680719383.0
+PredicatePushdown - Join - row,Without,10000000,24552356207.0
+PredicatePushdown - Join - row,Without,10000000,24490302547.0
+PredicatePushdown - Join - row,Without,10000000,24158968366.0
+PredicatePushdown - Join - row,Without,10000000,24979301120.0
+PredicatePushdown - Join - row,Without,10000000,24474920118.0
+PredicatePushdown - Join - row,Without,10000000,24218747426.0
+PredicatePushdown - Join - row,Without,10000000,24753399979.0
+PredicatePushdown - Join - row,Without,10000000,24330219793.0
+PredicatePushdown - Join - row,Without,10000000,24225273547.0
+PredicatePushdown - Join - row,Without,10000000,24314688165.0
+PredicatePushdown - Join - row,Without,10000000,24978262392.0
+PredicatePushdown - Join - row,Without,10000000,23741038109.0
+PredicatePushdown - Join - row,Without,10000000,24545286405.0
+PredicatePushdown - Join - row,Without,10000000,24400219602.0
+PredicatePushdown - Join - row,Without,10000000,24508514301.0
+PredicatePushdown - Join - row,Without,10000000,24028994701.0
+PredicatePushdown - Join - row,Without,10000000,24407038301.0
+PredicatePushdown - Join - row,Without,10000000,23841933409.0
+Expression - execution time,Compiled,1,4.039966750201832
+Expression - execution time,Compiled,1,4.0276962991844085
+Expression - execution time,Compiled,1,4.181926420448095
+Expression - execution time,Compiled,1,4.141575988253864
+Expression - execution time,Compiled,1,4.041509140795647
+Expression - execution time,Compiled,1,4.180969829262625
+Expression - execution time,Compiled,1,4.181209105781692
+Expression - execution time,Compiled,1,4.181522457383296
+Expression - execution time,Compiled,1,4.183582362178653
+Expression - execution time,Compiled,1,4.181125527409342
+Expression - execution time,Compiled,1,4.181203372837179
+Expression - execution time,Compiled,1,4.180999467578065
+Expression - execution time,Compiled,1,4.181425888081907
+Expression - execution time,Compiled,1,4.181284643575125
+Expression - execution time,Compiled,1,4.181584116626493
+Expression - execution time,Compiled,1,4.182890520256432
+Expression - execution time,Compiled,1,4.181095630215317
+Expression - execution time,Compiled,1,4.182174043351643
+Expression - execution time,Compiled,1,4.181740793923036
+Expression - execution time,Compiled,1,4.181705814656291
+Expression - execution time,Compiled,1000,3970.7666098807495
+Expression - execution time,Compiled,1000,3977.141424861061
+Expression - execution time,Compiled,1000,4004.036268513605
+Expression - execution time,Compiled,1000,4002.5579216354345
+Expression - execution time,Compiled,1000,4004.268774262016
+Expression - execution time,Compiled,1000,4001.538670278623
+Expression - execution time,Compiled,1000,4003.3638155348713
+Expression - execution time,Compiled,1000,4002.118192671824
+Expression - execution time,Compiled,1000,4001.3825198673135
+Expression - execution time,Compiled,1000,4002.5855307621414
+Expression - execution time,Compiled,1000,4001.6327254447456
+Expression - execution time,Compiled,1000,4000.67913629551
+Expression - execution time,Compiled,1000,4005.5388439303874
+Expression - execution time,Compiled,1000,4002.6009599080785
+Expression - execution time,Compiled,1000,4003.3769933253275
+Expression - execution time,Compiled,1000,4000.332642709526
+Expression - execution time,Compiled,1000,4003.159037256928
+Expression - execution time,Compiled,1000,4001.5690305744065
+Expression - execution time,Compiled,1000,4005.692447669009
+Expression - execution time,Compiled,1000,4003.3850154997626
+Expression - execution time,Compiled,10,38.25230838823076
+Expression - execution time,Compiled,10,38.1788305431997
+Expression - execution time,Compiled,10,39.30601027491176
+Expression - execution time,Compiled,10,39.30633298242274
+Expression - execution time,Compiled,10,39.30381349752941
+Expression - execution time,Compiled,10,39.30618091504937
+Expression - execution time,Compiled,10,39.6304708975987
+Expression - execution time,Compiled,10,38.85712158199229
+Expression - execution time,Compiled,10,38.17773967227433
+Expression - execution time,Compiled,10,39.30884492814954
+Expression - execution time,Compiled,10,39.30668616510915
+Expression - execution time,Compiled,10,39.30286638744235
+Expression - execution time,Compiled,10,39.32126818347698
+Expression - execution time,Compiled,10,39.30519978830586
+Expression - execution time,Compiled,10,39.29930184749935
+Expression - execution time,Compiled,10,39.30077257196189
+Expression - execution time,Compiled,10,39.30476891289265
+Expression - execution time,Compiled,10,39.306712325399964
+Expression - execution time,Compiled,10,39.303448642997814
+Expression - execution time,Compiled,10,39.30224511701392
+Expression - execution time,Compiled,100,392.4369641462627
+Expression - execution time,Compiled,100,392.23623647516894
+Expression - execution time,Compiled,100,398.25557067129523
+Expression - execution time,Compiled,100,398.2698771209943
+Expression - execution time,Compiled,100,392.1318119479344
+Expression - execution time,Compiled,100,398.2734796034096
+Expression - execution time,Compiled,100,398.1014537259291
+Expression - execution time,Compiled,100,391.71458536269034
+Expression - execution time,Compiled,100,391.736338268791
+Expression - execution time,Compiled,100,387.80182455869243
+Expression - execution time,Compiled,100,391.80483051989086
+Expression - execution time,Compiled,100,391.75524919354615
+Expression - execution time,Compiled,100,398.1702791963672
+Expression - execution time,Compiled,100,398.25180163541705
+Expression - execution time,Compiled,100,398.3036034022372
+Expression - execution time,Compiled,100,391.79482958919834
+Expression - execution time,Compiled,100,392.0716074845149
+Expression - execution time,Compiled,100,392.1654491290973
+Expression - execution time,Compiled,100,393.6531276146845
+Expression - execution time,Compiled,100,398.2593447924744
+Expression - execution time,Expression,1,22.01929015247882
+Expression - execution time,Expression,1,22.02607675180463
+Expression - execution time,Expression,1,22.021673925067162
+Expression - execution time,Expression,1,22.023118539967037
+Expression - execution time,Expression,1,22.017014593053762
+Expression - execution time,Expression,1,22.02145654815013
+Expression - execution time,Expression,1,22.020825748795893
+Expression - execution time,Expression,1,22.027371629437432
+Expression - execution time,Expression,1,22.024832471704432
+Expression - execution time,Expression,1,22.02799193981498
+Expression - execution time,Expression,1,22.07747445891877
+Expression - execution time,Expression,1,22.05607764381817
+Expression - execution time,Expression,1,22.020649564038266
+Expression - execution time,Expression,1,22.02445267349935
+Expression - execution time,Expression,1,22.031967648272072
+Expression - execution time,Expression,1,22.020108967341205
+Expression - execution time,Expression,1,22.021346764774616
+Expression - execution time,Expression,1,22.30186059328766
+Expression - execution time,Expression,1,22.29708979609096
+Expression - execution time,Expression,1,22.293600447712695
+Expression - execution time,Expression,1000,22891.99283265815
+Expression - execution time,Expression,1000,22868.696244936116
+Expression - execution time,Expression,1000,22869.517087358472
+Expression - execution time,Expression,1000,22866.847460267996
+Expression - execution time,Expression,1000,22863.559488937364
+Expression - execution time,Expression,1000,22865.78949828607
+Expression - execution time,Expression,1000,22866.971241597294
+Expression - execution time,Expression,1000,22862.957171237147
+Expression - execution time,Expression,1000,22863.835930196325
+Expression - execution time,Expression,1000,22866.434714864445
+Expression - execution time,Expression,1000,22871.570738547834
+Expression - execution time,Expression,1000,22865.241897787473
+Expression - execution time,Expression,1000,22868.298055948413
+Expression - execution time,Expression,1000,22866.110192316253
+Expression - execution time,Expression,1000,22869.818479277033
+Expression - execution time,Expression,1000,22867.338208943595
+Expression - execution time,Expression,1000,22867.088088647735
+Expression - execution time,Expression,1000,22917.783066722066
+Expression - execution time,Expression,1000,23156.559790720177
+Expression - execution time,Expression,1000,23147.63035992521
+Expression - execution time,Expression,10,227.18660375927865
+Expression - execution time,Expression,10,232.4837607022767
+Expression - execution time,Expression,10,232.5151891219117
+Expression - execution time,Expression,10,222.89894366033724
+Expression - execution time,Expression,10,221.24508782327337
+Expression - execution time,Expression,10,231.79237338186013
+Expression - execution time,Expression,10,232.4219051848636
+Expression - execution time,Expression,10,232.45994760468616
+Expression - execution time,Expression,10,232.43502673323283
+Expression - execution time,Expression,10,230.4587754413601
+Expression - execution time,Expression,10,229.64236801047062
+Expression - execution time,Expression,10,229.63898607485442
+Expression - execution time,Expression,10,229.6290251564878
+Expression - execution time,Expression,10,229.64170376951367
+Expression - execution time,Expression,10,229.63945277381038
+Expression - execution time,Expression,10,229.63652288774622
+Expression - execution time,Expression,10,229.6536928446927
+Expression - execution time,Expression,10,229.62689916678832
+Expression - execution time,Expression,10,229.66288737483384
+Expression - execution time,Expression,10,229.66399563011322
+Expression - execution time,Expression,100,2210.6410185864515
+Expression - execution time,Expression,100,2208.6164175226218
+Expression - execution time,Expression,100,2208.986039781528
+Expression - execution time,Expression,100,2208.392531792614
+Expression - execution time,Expression,100,2208.262368549768
+Expression - execution time,Expression,100,2208.715797464743
+Expression - execution time,Expression,100,2208.8184130768964
+Expression - execution time,Expression,100,2208.689022759232
+Expression - execution time,Expression,100,2208.3830908127497
+Expression - execution time,Expression,100,2208.753053925165
+Expression - execution time,Expression,100,2208.625957391227
+Expression - execution time,Expression,100,2208.8711685823755
+Expression - execution time,Expression,100,2208.664945350565
+Expression - execution time,Expression,100,2208.6418417880727
+Expression - execution time,Expression,100,2208.6396724953124
+Expression - execution time,Expression,100,2208.6982357391785
+Expression - execution time,Expression,100,2278.7382611885546
+Expression - execution time,Expression,100,2320.7236233390395
+Expression - execution time,Expression,100,2320.420238508965
+Expression - execution time,Expression,100,2320.843370934214
+Expression - execution time,Closure,1,0.6976104072038087
+Expression - execution time,Closure,1,0.6967154151814565
+Expression - execution time,Closure,1,0.6971467627529884
+Expression - execution time,Closure,1,0.6967417964406237
+Expression - execution time,Closure,1,0.6969355396664623
+Expression - execution time,Closure,1,0.6969509318238309
+Expression - execution time,Closure,1,0.6969937201829348
+Expression - execution time,Closure,1,0.696823623223403
+Expression - execution time,Closure,1,0.6974298528730857
+Expression - execution time,Closure,1,0.6969895636850962
+Expression - execution time,Closure,1,0.6975616727411665
+Expression - execution time,Closure,1,0.6971858659288473
+Expression - execution time,Closure,1,0.7004252486064623
+Expression - execution time,Closure,1,0.697543565528169
+Expression - execution time,Closure,1,0.69679560516841
+Expression - execution time,Closure,1,0.6967910058062868
+Expression - execution time,Closure,1,0.6968764012371688
+Expression - execution time,Closure,1,0.6968143931432262
+Expression - execution time,Closure,1,0.6967908520469772
+Expression - execution time,Closure,1,0.6968747703286505
+Expression - execution time,Closure,1000,850.4691377796759
+Expression - execution time,Closure,1000,846.2421880560894
+Expression - execution time,Closure,1000,846.7040912362288
+Expression - execution time,Closure,1000,847.253013263103
+Expression - execution time,Closure,1000,847.2399755617245
+Expression - execution time,Closure,1000,847.7710809784801
+Expression - execution time,Closure,1000,847.4490058604408
+Expression - execution time,Closure,1000,847.7686727406458
+Expression - execution time,Closure,1000,847.6252362762078
+Expression - execution time,Closure,1000,847.2750913469523
+Expression - execution time,Closure,1000,846.9741359786203
+Expression - execution time,Closure,1000,847.5303560553934
+Expression - execution time,Closure,1000,847.177848683454
+Expression - execution time,Closure,1000,847.1555054757329
+Expression - execution time,Closure,1000,847.4378733954967
+Expression - execution time,Closure,1000,848.2088905349135
+Expression - execution time,Closure,1000,847.4476513575037
+Expression - execution time,Closure,1000,847.0905297068725
+Expression - execution time,Closure,1000,847.484536578117
+Expression - execution time,Closure,1000,847.7990408570005
+Expression - execution time,Closure,10,5.862742408354862
+Expression - execution time,Closure,10,5.85614226167264
+Expression - execution time,Closure,10,5.851986408840934
+Expression - execution time,Closure,10,5.855841837712249
+Expression - execution time,Closure,10,5.854244028150363
+Expression - execution time,Closure,10,5.854018846281554
+Expression - execution time,Closure,10,5.853331631125566
+Expression - execution time,Closure,10,5.854356541897979
+Expression - execution time,Closure,10,5.857530082412493
+Expression - execution time,Closure,10,5.86221480318291
+Expression - execution time,Closure,10,5.853935428041201
+Expression - execution time,Closure,10,5.853169258810786
+Expression - execution time,Closure,10,5.853652026182369
+Expression - execution time,Closure,10,5.853502599374893
+Expression - execution time,Closure,10,5.854018530703709
+Expression - execution time,Closure,10,5.8536509897566305
+Expression - execution time,Closure,10,5.8535092636019925
+Expression - execution time,Closure,10,5.852591421205278
+Expression - execution time,Closure,10,5.853569509520091
+Expression - execution time,Closure,10,5.853487098296556
+Expression - execution time,Closure,100,61.58707062796899
+Expression - execution time,Closure,100,61.54163597772802
+Expression - execution time,Closure,100,61.61880816524132
+Expression - execution time,Closure,100,61.64643658299727
+Expression - execution time,Closure,100,61.66389859627213
+Expression - execution time,Closure,100,61.54885988077455
+Expression - execution time,Closure,100,61.53217231605981
+Expression - execution time,Closure,100,61.56806201077376
+Expression - execution time,Closure,100,61.54371743522693
+Expression - execution time,Closure,100,61.51948703043768
+Expression - execution time,Closure,100,61.596092979918026
+Expression - execution time,Closure,100,61.532381753435146
+Expression - execution time,Closure,100,61.54841835479602
+Expression - execution time,Closure,100,61.5132821089874
+Expression - execution time,Closure,100,61.57179199253001
+Expression - execution time,Closure,100,61.56888770133956
+Expression - execution time,Closure,100,61.402834694012974
+Expression - execution time,Closure,100,61.58609780538393
+Expression - execution time,Closure,100,61.39738554754574
+Expression - execution time,Closure,100,61.3453952792794
