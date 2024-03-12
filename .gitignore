@@ -52,3 +52,6 @@ l10n/
 eval/
 data/
 data@*
+hyperfine_results/
+criterion_results/
+mem_results/

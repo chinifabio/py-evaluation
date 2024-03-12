@@ -8,4 +8,3 @@ df = pd.read_csv(path)
 other_df = pd.read_csv(other_path)
 joined = pd.merge(df, other_df, on="0", how="inner")
 filtered = joined[joined["1_x"] > joined["1_y"]]
-
