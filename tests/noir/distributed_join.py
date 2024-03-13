@@ -5,6 +5,8 @@ import sys
 
 config = EnvironmentConfig.from_args()
 env = StreamEnvironment(config)
+env.spown_remote_workers()
+
 other = env.opt_stream(sys.argv[3])
 res = env.opt_stream(sys.argv[4])\
     .join(other, left_on=col(0), right_on=col(0))\
