@@ -12,4 +12,3 @@ res = env.opt_stream(sys.argv[3])\
     .select([avg((col(0) + col(2)))])\
     .collect()
 env.execute()
-print(res)
