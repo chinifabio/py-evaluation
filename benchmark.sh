@@ -10,21 +10,21 @@ hyperfine --warmup 3 --export-json hyperfine_results/join.json \
     --ignore-failure \
     "./tests/{lib}/join.py data/{n_row}_10.csv data/1000_10.csv"
 
-PWD = ${PWD} # current directory, PyNoir needs absolute paths
+PWD = $(pwd) # current directory, PyNoir needs absolute paths
 
 hyperfine --warmup 3 --export-json hyperfine_results/distributed_groupby_mean.json \
     --ignore-failure \
     --parameter-list n_row 1000,10000,100000,1000000 \
-    --parameter-list n_hosts,2,3,4 \
-    ${PWD}/tests/noir/distributed_groupby_mean.py -r ${PWD}/{n_hosts}_hosts.yml \
-        ${PWD}/data/{n_row}_100.csv
+    --parameter-list n_hosts 2,3,4 \
+    "${PWD}/tests/noir/distributed_groupby_mean.py -r ${PWD}/{n_hosts}_hosts.yml \
+        ${PWD}/data/{n_row}_10.csv"
 
 hyperfine --warmup 3 --export-json hyperfine_results/distributed_join.json \
     --ignore-failure \
     --parameter-list n_row 1000,10000,100000,1000000 \
     --parameter-list n_hosts 2,3,4 \
-    ${PWD}/tests/noir/distributed_join.py -r ${PWD}/{n_hosts}_hosts.yml \
-        ${PWD}/data/{n_row}_100.csv ${PWD}/data/1000_100.csv
+    "${PWD}/tests/noir/distributed_join.py -r ${PWD}/{n_hosts}_hosts.yml \
+        ${PWD}/data/{n_row}_10.csv ${PWD}/data/1000_10.csv"
 
 for lib in 'noir' 'polars' 'pandas'; do
     for in 10000 100000 1000000 10000000; do

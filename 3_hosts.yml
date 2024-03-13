@@ -1,19 +1,19 @@
 hosts:
-  - address: 127.0.0.1
-    base_port: 9600
-    num_cores: 3
-    ssh:
-      username: fabio
-      key_file: /home/fabio/.ssh/id_rsa
-  - address: 127.0.0.2
+  - address: 172.31.15.108
     base_port: 9500
-    num_cores: 3
+    num_cores: 8
     ssh:
-      username: fabio
-      key_file: /home/fabio/.ssh/id_rsa
-  - address: 127.0.0.3
-    base_port: 9700
-    num_cores: 2
+      username: ubuntu
+      key_file: /home/ubuntu/.ssh/id_ed25519
+  - address: 172.31.12.103
+    base_port: 9500
+    num_cores: 8
     ssh:
-      username: fabio
-      key_file: /home/fabio/.ssh/id_rsa
+      username: ubuntu
+      key_file: /home/ubuntu/.ssh/id_ed25519
+  - address: 172.31.15.77
+    base_port: 9500
+    num_cores: 8
+    ssh:
+      username: ubuntu
+      key_file: /home/ubuntu/.ssh/id_ed25519
