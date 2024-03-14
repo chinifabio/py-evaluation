@@ -1,4 +1,0 @@
-o - sistemare il join in modo che abbia un predicato che prenda entrambe le stream.
-o - sistemare il fatto che misura memoria faccia sampling con frequenza troppo bassa
-o - unificare i dataset tra le varie macchine
-o - devo anche guardare numero di colonne P 1000, se pesa troppo il dataset posso semplicemente abbassare il numero di righe
