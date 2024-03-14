@@ -15,7 +15,11 @@ args = parser.parse_args()
 np.random.seed(0xdeadc0de)
 
 def generate_csv(row, col, chunk_size=10000):
-    with open(f'data/{row}_{col}.csv', 'w', newline='') as csvfile:
+    filename = f'data/{row}_{col}.csv'
+    if os.path.exists(filename):
+        print(f'File {filename} already exists')
+        return
+    with open(filename, 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(list(range(col)))  # Writing header
 
