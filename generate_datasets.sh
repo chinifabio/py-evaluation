@@ -1,6 +1,6 @@
 dataset_folder = "data"
 
-if [ ! -d "$dataset_folder" ] then
+if [ ! -d "$dataset_folder" ]; then
     mkdir $dataset_folder
 fi
 
