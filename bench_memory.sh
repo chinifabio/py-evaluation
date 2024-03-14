@@ -1,7 +1,7 @@
 if [ ! -d "mem_results" ]; then
     mkdir mem_results
 else
-    rm -r mem_results
+    rm -rf mem_results
     mkdir mem_results
 fi
 
