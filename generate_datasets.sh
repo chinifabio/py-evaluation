@@ -1,6 +1,9 @@
-dataset_folder = "data"
+dataset_folder="data"
 
 if [ ! -d "$dataset_folder" ]; then
+    mkdir $dataset_folder
+else
+    rm -rf $dataset_folder
     mkdir $dataset_folder
 fi
 
