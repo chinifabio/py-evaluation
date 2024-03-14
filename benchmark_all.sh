@@ -44,8 +44,8 @@ for lib in 'noir' 'polars' 'pandas'; do
             echo "Benchmarking $lib with $n_row rows and $n_col columns"
             mprof run -T 0.01 -o mprof_results/filter_${lib}_${n_row}_${n_col}.dat ./tests/$lib/filter.py data/${n_row}_${n_col}.csv
             mprof run -T 0.01 -o mprof_results/filteragg_${lib}_${n_row}_${n_col}.dat ./tests/$lib/filter_agg.py data/${n_row}_${n_col}.csv
-            mprof run -T 0.01 -o mprof_results/groupby_${lib}_${n_row}_${n_col}.dat ./tests/$lib/join.py data/${n_row}_${n_col}.csv
-            mprof run -T 0.01 -o mprof_results/join_${lib}_${n_row}_${n_col}.dat ./tests/$lib/join.py data/${n_row}_${n_col}.csv data/1000_10.csv
+            mprof run -T 0.01 -o mprof_results/groupby_${lib}_${n_row}_${n_col}.dat ./tests/$lib/groupby_mean.py data/${n_row}_${n_col}.csv
+            mprof run -T 0.01 -o mprof_results/join_${lib}_${n_row}_${n_col}.dat ./tests/$lib/join.py data/${n_row}_${n_col}.csv data/1000_10.csv $n_col
         done
     done
 done
@@ -66,7 +66,7 @@ hyperfine --warmup 3 --export-json hyperfine_results/distributed_join.json \
     --parameter-list n_col 10,100 \
     --parameter-list n_hosts 2,3,4 \
     "${PWD}/tests/noir/distributed_join.py -r ${PWD}/{n_hosts}_hosts.yml \
-        ${PWD}/data/{n_row}_10.csv ${PWD}/data/1000_10.csv"
+        ${PWD}/data/{n_row}_10.csv ${PWD}/data/1000_10.csv {n_col}"
 
 hyperfine --warmup 3 --export-json hyperfine_results/distributed_filter.json \
     --ignore-failure \

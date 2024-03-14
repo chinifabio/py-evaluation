@@ -7,13 +7,16 @@ else
     mkdir $dataset_folder
 fi
 
-for n_row in 10000 100000 1000000 10000000; do
-    for n_col in 10 100 1000; do
-        python generator.py --row $n_row --col $n_col > /dev/null
-    done
+n_col=10
+for n_row in 1000 10000 100000 1000000 10000000; do
+    echo "Generating dataset with $n_row rows and $n_col columns"
+    python generator.py --row $n_row --col $n_col > /dev/null
 done
 
-python generator.py --row 1000 --col 10
-mv $dataset_folder/1000_10.csv $dataset_folder/other.csv
+n_row=100000
+for n_col in 10 100 1000; do
+    echo "Generating dataset with $n_row rows and $n_col columns"
+    python generator.py --row $n_row --col $n_col > /dev/null
+done
 
 echo "Datasets generated."
