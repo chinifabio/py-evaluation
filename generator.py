@@ -1,4 +1,5 @@
 import csv
+from random import seed
 import numpy as np
 from tqdm import tqdm
 import argparse
@@ -10,6 +11,8 @@ parser = argparse.ArgumentParser(description='Generate a CSV file')
 parser.add_argument('--row', type=int, help='Number of rows')
 parser.add_argument('--col', type=int, help='Number of columns')
 args = parser.parse_args()
+
+np.random.seed(0xdeadc0de)
 
 def generate_csv(row, col, chunk_size=10000):
     with open(f'data/{row}_{col}.csv', 'w', newline='') as csvfile:

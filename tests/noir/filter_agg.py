@@ -4,11 +4,11 @@ from noir import EnvironmentConfig, StreamEnvironment, col
 from noir import max as noir_max
 import sys
 
-config = EnvironmentConfig.from_args()
+config = EnvironmentConfig.default()
 env = StreamEnvironment(config)
-env.spown_remote_workers()
-res = env.opt_stream(sys.argv[3])\
+
+res = env.opt_stream(sys.argv[1])\
     .filter(col(0) >= 50)\
-    .select(noir_max(col(0) + col(2)))\
+    .select(noir_max(col(1) + col(2)))\
     .collect()
 env.execute()

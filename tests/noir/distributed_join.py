@@ -7,9 +7,13 @@ config = EnvironmentConfig.from_args()
 env = StreamEnvironment(config)
 env.spown_remote_workers()
 
-other = env.opt_stream(sys.argv[3])
-res = env.opt_stream(sys.argv[4])\
+path = sys.argv[3]
+other_path = sys.argv[4]
+n_col = int(sys.argv[5])
+
+other = env.opt_stream(path)
+res = env.opt_stream(other_path)\
     .join(other, left_on=col(0), right_on=col(0))\
-    .filter(col(1) > col(11))\
+    .filter(col(1) >= col(n_col + 1))\
     .collect()
 env.execute()
